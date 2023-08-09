@@ -1,0 +1,2939 @@
+index,Country,Status,Life expectancy ,Label
+0,Afghanistan,Developing,65.0,normal
+1,Afghanistan,Developing,59.9,normal
+2,Afghanistan,Developing,59.9,normal
+3,Afghanistan,Developing,59.5,normal
+4,Afghanistan,Developing,59.2,normal
+5,Afghanistan,Developing,58.8,normal
+6,Afghanistan,Developing,58.6,normal
+7,Afghanistan,Developing,58.1,short
+8,Afghanistan,Developing,57.5,short
+9,Afghanistan,Developing,57.3,short
+10,Afghanistan,Developing,57.3,short
+11,Afghanistan,Developing,57.0,short
+12,Afghanistan,Developing,56.7,short
+13,Afghanistan,Developing,56.2,short
+14,Afghanistan,Developing,55.3,short
+15,Afghanistan,Developing,54.8,short
+16,Albania,Developing,77.8,long
+17,Albania,Developing,77.5,long
+18,Albania,Developing,77.2,long
+19,Albania,Developing,76.9,long
+20,Albania,Developing,76.6,long
+21,Albania,Developing,76.2,long
+22,Albania,Developing,76.1,long
+23,Albania,Developing,75.3,normal
+24,Albania,Developing,75.9,long
+25,Albania,Developing,74.2,normal
+26,Albania,Developing,73.5,normal
+27,Albania,Developing,73.0,normal
+28,Albania,Developing,72.8,normal
+29,Albania,Developing,73.3,normal
+30,Albania,Developing,73.6,normal
+31,Albania,Developing,72.6,normal
+32,Algeria,Developing,75.6,normal
+33,Algeria,Developing,75.4,normal
+34,Algeria,Developing,75.3,normal
+35,Algeria,Developing,75.1,normal
+36,Algeria,Developing,74.9,normal
+37,Algeria,Developing,74.7,normal
+38,Algeria,Developing,74.4,normal
+39,Algeria,Developing,74.1,normal
+40,Algeria,Developing,73.8,normal
+41,Algeria,Developing,73.4,normal
+42,Algeria,Developing,72.9,normal
+43,Algeria,Developing,72.3,normal
+44,Algeria,Developing,71.7,normal
+45,Algeria,Developing,71.6,normal
+46,Algeria,Developing,71.4,normal
+47,Algeria,Developing,71.3,normal
+48,Angola,Developing,52.4,short
+49,Angola,Developing,51.7,short
+50,Angola,Developing,51.1,short
+51,Angola,Developing,56.0,short
+52,Angola,Developing,51.0,short
+53,Angola,Developing,49.6,short
+54,Angola,Developing,49.1,short
+55,Angola,Developing,48.7,short
+56,Angola,Developing,48.2,short
+57,Angola,Developing,47.7,short
+58,Angola,Developing,47.4,short
+59,Angola,Developing,47.1,short
+60,Angola,Developing,46.8,short
+61,Angola,Developing,46.5,short
+62,Angola,Developing,45.7,short
+63,Angola,Developing,45.3,short
+64,Antigua and Barbuda,Developing,76.4,long
+65,Antigua and Barbuda,Developing,76.2,long
+66,Antigua and Barbuda,Developing,76.1,long
+67,Antigua and Barbuda,Developing,75.9,long
+68,Antigua and Barbuda,Developing,75.7,normal
+69,Antigua and Barbuda,Developing,75.6,normal
+70,Antigua and Barbuda,Developing,75.4,normal
+71,Antigua and Barbuda,Developing,75.2,normal
+72,Antigua and Barbuda,Developing,75.0,normal
+73,Antigua and Barbuda,Developing,74.8,normal
+74,Antigua and Barbuda,Developing,74.6,normal
+75,Antigua and Barbuda,Developing,74.4,normal
+76,Antigua and Barbuda,Developing,74.2,normal
+77,Antigua and Barbuda,Developing,74.0,normal
+78,Antigua and Barbuda,Developing,73.8,normal
+79,Antigua and Barbuda,Developing,73.6,normal
+80,Argentina,Developing,76.3,long
+81,Argentina,Developing,76.2,long
+82,Argentina,Developing,76.0,long
+83,Argentina,Developing,75.9,long
+84,Argentina,Developing,75.7,normal
+85,Argentina,Developing,75.5,normal
+86,Argentina,Developing,75.6,normal
+87,Argentina,Developing,75.4,normal
+88,Argentina,Developing,74.8,normal
+89,Argentina,Developing,75.2,normal
+90,Argentina,Developing,74.9,normal
+91,Argentina,Developing,74.7,normal
+92,Argentina,Developing,74.1,normal
+93,Argentina,Developing,74.1,normal
+94,Argentina,Developing,74.0,normal
+95,Argentina,Developing,74.1,normal
+96,Armenia,Developing,74.8,normal
+97,Armenia,Developing,74.6,normal
+98,Armenia,Developing,74.4,normal
+99,Armenia,Developing,74.4,normal
+100,Armenia,Developing,73.9,normal
+101,Armenia,Developing,73.5,normal
+102,Armenia,Developing,73.3,normal
+103,Armenia,Developing,73.2,normal
+104,Armenia,Developing,73.5,normal
+105,Armenia,Developing,72.9,normal
+106,Armenia,Developing,73.0,normal
+107,Armenia,Developing,73.0,normal
+108,Armenia,Developing,72.7,normal
+109,Armenia,Developing,72.6,normal
+110,Armenia,Developing,72.6,normal
+111,Armenia,Developing,72.0,normal
+112,Australia,Developed,82.8,long
+113,Australia,Developed,82.7,long
+114,Australia,Developed,82.5,long
+115,Australia,Developed,82.3,normal
+116,Australia,Developed,82.0,normal
+117,Australia,Developed,81.9,normal
+118,Australia,Developed,81.7,normal
+119,Australia,Developed,81.3,normal
+120,Australia,Developed,81.3,normal
+121,Australia,Developed,81.2,normal
+122,Australia,Developed,81.0,normal
+123,Australia,Developed,86.0,long
+124,Australia,Developed,83.0,long
+125,Australia,Developed,79.9,normal
+126,Australia,Developed,79.9,normal
+127,Australia,Developed,79.5,normal
+128,Austria,Developed,81.5,normal
+129,Austria,Developed,81.4,normal
+130,Austria,Developed,81.1,normal
+131,Austria,Developed,88.0,long
+132,Austria,Developed,88.0,long
+133,Austria,Developed,84.0,long
+134,Austria,Developed,82.0,normal
+135,Austria,Developed,84.0,long
+136,Austria,Developed,81.0,normal
+137,Austria,Developed,79.8,normal
+138,Austria,Developed,79.4,normal
+139,Austria,Developed,79.3,normal
+140,Austria,Developed,78.8,normal
+141,Austria,Developed,78.7,normal
+142,Austria,Developed,78.6,normal
+143,Austria,Developed,78.1,normal
+144,Azerbaijan,Developing,72.7,normal
+145,Azerbaijan,Developing,72.5,normal
+146,Azerbaijan,Developing,72.2,normal
+147,Azerbaijan,Developing,71.9,normal
+148,Azerbaijan,Developing,71.6,normal
+149,Azerbaijan,Developing,71.1,normal
+150,Azerbaijan,Developing,78.0,long
+151,Azerbaijan,Developing,73.0,normal
+152,Azerbaijan,Developing,73.0,normal
+153,Azerbaijan,Developing,69.2,normal
+154,Azerbaijan,Developing,68.4,normal
+155,Azerbaijan,Developing,68.4,normal
+156,Azerbaijan,Developing,67.8,normal
+157,Azerbaijan,Developing,67.8,normal
+158,Azerbaijan,Developing,67.5,normal
+159,Azerbaijan,Developing,66.6,normal
+160,Bahamas,Developing,76.1,long
+161,Bahamas,Developing,75.4,normal
+162,Bahamas,Developing,74.8,normal
+163,Bahamas,Developing,74.9,normal
+164,Bahamas,Developing,75.0,normal
+165,Bahamas,Developing,75.0,normal
+166,Bahamas,Developing,74.6,normal
+167,Bahamas,Developing,74.5,normal
+168,Bahamas,Developing,74.4,normal
+169,Bahamas,Developing,74.2,normal
+170,Bahamas,Developing,74.1,normal
+171,Bahamas,Developing,73.8,normal
+172,Bahamas,Developing,73.2,normal
+173,Bahamas,Developing,73.1,normal
+174,Bahamas,Developing,72.9,normal
+175,Bahamas,Developing,72.6,normal
+176,Bahrain,Developing,76.9,long
+177,Bahrain,Developing,76.8,long
+178,Bahrain,Developing,76.7,long
+179,Bahrain,Developing,76.5,long
+180,Bahrain,Developing,76.1,long
+181,Bahrain,Developing,76.1,long
+182,Bahrain,Developing,76.0,long
+183,Bahrain,Developing,75.8,long
+184,Bahrain,Developing,75.6,normal
+185,Bahrain,Developing,75.5,normal
+186,Bahrain,Developing,75.3,normal
+187,Bahrain,Developing,75.2,normal
+188,Bahrain,Developing,75.0,normal
+189,Bahrain,Developing,74.9,normal
+190,Bahrain,Developing,74.7,normal
+191,Bahrain,Developing,74.5,normal
+192,Bangladesh,Developing,71.8,normal
+193,Bangladesh,Developing,71.4,normal
+194,Bangladesh,Developing,71.0,normal
+195,Bangladesh,Developing,77.0,long
+196,Bangladesh,Developing,73.0,normal
+197,Bangladesh,Developing,69.9,normal
+198,Bangladesh,Developing,69.5,normal
+199,Bangladesh,Developing,69.1,normal
+200,Bangladesh,Developing,68.6,normal
+201,Bangladesh,Developing,68.2,normal
+202,Bangladesh,Developing,67.8,normal
+203,Bangladesh,Developing,67.3,normal
+204,Bangladesh,Developing,66.8,normal
+205,Bangladesh,Developing,66.3,normal
+206,Bangladesh,Developing,65.8,normal
+207,Bangladesh,Developing,65.3,normal
+208,Barbados,Developing,75.5,normal
+209,Barbados,Developing,75.4,normal
+210,Barbados,Developing,75.2,normal
+211,Barbados,Developing,75.1,normal
+212,Barbados,Developing,74.9,normal
+213,Barbados,Developing,74.7,normal
+214,Barbados,Developing,74.6,normal
+215,Barbados,Developing,74.4,normal
+216,Barbados,Developing,74.2,normal
+217,Barbados,Developing,74.1,normal
+218,Barbados,Developing,73.9,normal
+219,Barbados,Developing,73.8,normal
+220,Barbados,Developing,73.7,normal
+221,Barbados,Developing,73.5,normal
+222,Barbados,Developing,73.4,normal
+223,Barbados,Developing,73.3,normal
+224,Belarus,Developing,72.3,normal
+225,Belarus,Developing,72.0,normal
+226,Belarus,Developing,71.7,normal
+227,Belarus,Developing,71.9,normal
+228,Belarus,Developing,72.0,normal
+229,Belarus,Developing,73.0,normal
+230,Belarus,Developing,70.0,normal
+231,Belarus,Developing,70.0,normal
+232,Belarus,Developing,69.8,normal
+233,Belarus,Developing,68.9,normal
+234,Belarus,Developing,68.1,normal
+235,Belarus,Developing,68.2,normal
+236,Belarus,Developing,67.7,normal
+237,Belarus,Developing,67.2,normal
+238,Belarus,Developing,67.7,normal
+239,Belarus,Developing,68.0,normal
+240,Belgium,Developed,81.1,normal
+241,Belgium,Developed,89.0,long
+242,Belgium,Developed,87.0,long
+243,Belgium,Developed,83.0,long
+244,Belgium,Developed,83.0,long
+245,Belgium,Developed,80.0,normal
+246,Belgium,Developed,79.8,normal
+247,Belgium,Developed,79.5,normal
+248,Belgium,Developed,79.5,normal
+249,Belgium,Developed,79.4,normal
+250,Belgium,Developed,78.9,normal
+251,Belgium,Developed,78.8,normal
+252,Belgium,Developed,78.3,normal
+253,Belgium,Developed,78.0,normal
+254,Belgium,Developed,78.0,normal
+255,Belgium,Developed,77.6,normal
+256,Belize,Developing,71.0,normal
+257,Belize,Developing,70.0,normal
+258,Belize,Developing,69.8,normal
+259,Belize,Developing,69.4,normal
+260,Belize,Developing,69.4,normal
+261,Belize,Developing,69.5,normal
+262,Belize,Developing,69.5,normal
+263,Belize,Developing,69.6,normal
+264,Belize,Developing,69.6,normal
+265,Belize,Developing,69.4,normal
+266,Belize,Developing,69.0,normal
+267,Belize,Developing,68.7,normal
+268,Belize,Developing,68.4,normal
+269,Belize,Developing,68.5,normal
+270,Belize,Developing,68.2,normal
+271,Belize,Developing,68.3,normal
+272,Benin,Developing,60.0,normal
+273,Benin,Developing,59.7,normal
+274,Benin,Developing,59.5,normal
+275,Benin,Developing,59.3,normal
+276,Benin,Developing,59.1,normal
+277,Benin,Developing,58.7,normal
+278,Benin,Developing,58.4,short
+279,Benin,Developing,57.6,short
+280,Benin,Developing,57.1,short
+281,Benin,Developing,56.8,short
+282,Benin,Developing,56.5,short
+283,Benin,Developing,56.1,short
+284,Benin,Developing,55.8,short
+285,Benin,Developing,55.6,short
+286,Benin,Developing,55.5,short
+287,Benin,Developing,55.4,short
+288,Bhutan,Developing,69.8,normal
+289,Bhutan,Developing,69.4,normal
+290,Bhutan,Developing,69.1,normal
+291,Bhutan,Developing,68.7,normal
+292,Bhutan,Developing,68.3,normal
+293,Bhutan,Developing,67.9,normal
+294,Bhutan,Developing,67.4,normal
+295,Bhutan,Developing,67.0,normal
+296,Bhutan,Developing,66.5,normal
+297,Bhutan,Developing,65.8,normal
+298,Bhutan,Developing,65.0,normal
+299,Bhutan,Developing,64.2,normal
+300,Bhutan,Developing,63.3,normal
+301,Bhutan,Developing,62.5,normal
+302,Bhutan,Developing,61.7,normal
+303,Bhutan,Developing,62.0,normal
+304,Bolivia (Plurinational State of),Developing,77.0,long
+305,Bolivia (Plurinational State of),Developing,74.0,normal
+306,Bolivia (Plurinational State of),Developing,71.0,normal
+307,Bolivia (Plurinational State of),Developing,69.8,normal
+308,Bolivia (Plurinational State of),Developing,69.3,normal
+309,Bolivia (Plurinational State of),Developing,68.7,normal
+310,Bolivia (Plurinational State of),Developing,68.0,normal
+311,Bolivia (Plurinational State of),Developing,67.4,normal
+312,Bolivia (Plurinational State of),Developing,66.8,normal
+313,Bolivia (Plurinational State of),Developing,66.2,normal
+314,Bolivia (Plurinational State of),Developing,65.7,normal
+315,Bolivia (Plurinational State of),Developing,65.1,normal
+316,Bolivia (Plurinational State of),Developing,64.5,normal
+317,Bolivia (Plurinational State of),Developing,63.9,normal
+318,Bolivia (Plurinational State of),Developing,63.3,normal
+319,Bolivia (Plurinational State of),Developing,62.6,normal
+320,Bosnia and Herzegovina,Developing,77.4,long
+321,Bosnia and Herzegovina,Developing,77.2,long
+322,Bosnia and Herzegovina,Developing,77.0,long
+323,Bosnia and Herzegovina,Developing,76.8,long
+324,Bosnia and Herzegovina,Developing,76.9,long
+325,Bosnia and Herzegovina,Developing,76.4,long
+326,Bosnia and Herzegovina,Developing,76.1,long
+327,Bosnia and Herzegovina,Developing,76.0,long
+328,Bosnia and Herzegovina,Developing,75.4,normal
+329,Bosnia and Herzegovina,Developing,75.7,normal
+330,Bosnia and Herzegovina,Developing,75.0,normal
+331,Bosnia and Herzegovina,Developing,75.5,normal
+332,Bosnia and Herzegovina,Developing,75.2,normal
+333,Bosnia and Herzegovina,Developing,75.4,normal
+334,Bosnia and Herzegovina,Developing,74.9,normal
+335,Bosnia and Herzegovina,Developing,74.6,normal
+336,Botswana,Developing,65.7,normal
+337,Botswana,Developing,65.1,normal
+338,Botswana,Developing,64.2,normal
+339,Botswana,Developing,63.4,normal
+340,Botswana,Developing,62.2,normal
+341,Botswana,Developing,61.1,normal
+342,Botswana,Developing,59.2,normal
+343,Botswana,Developing,57.5,short
+344,Botswana,Developing,56.9,short
+345,Botswana,Developing,54.8,short
+346,Botswana,Developing,51.7,short
+347,Botswana,Developing,48.1,short
+348,Botswana,Developing,46.4,short
+349,Botswana,Developing,46.0,short
+350,Botswana,Developing,46.7,short
+351,Botswana,Developing,47.8,short
+352,Brazil,Developing,75.0,normal
+353,Brazil,Developing,74.8,normal
+354,Brazil,Developing,74.7,normal
+355,Brazil,Developing,74.5,normal
+356,Brazil,Developing,74.1,normal
+357,Brazil,Developing,73.8,normal
+358,Brazil,Developing,73.6,normal
+359,Brazil,Developing,73.4,normal
+360,Brazil,Developing,73.3,normal
+361,Brazil,Developing,73.0,normal
+362,Brazil,Developing,72.7,normal
+363,Brazil,Developing,72.0,normal
+364,Brazil,Developing,71.8,normal
+365,Brazil,Developing,71.4,normal
+366,Brazil,Developing,71.0,normal
+367,Brazil,Developing,75.0,normal
+368,Brunei Darussalam,Developing,77.7,long
+369,Brunei Darussalam,Developing,77.6,long
+370,Brunei Darussalam,Developing,77.1,long
+371,Brunei Darussalam,Developing,78.3,long
+372,Brunei Darussalam,Developing,77.4,long
+373,Brunei Darussalam,Developing,76.9,long
+374,Brunei Darussalam,Developing,76.8,long
+375,Brunei Darussalam,Developing,77.2,long
+376,Brunei Darussalam,Developing,76.0,long
+377,Brunei Darussalam,Developing,76.3,long
+378,Brunei Darussalam,Developing,76.2,long
+379,Brunei Darussalam,Developing,76.4,long
+380,Brunei Darussalam,Developing,76.0,long
+381,Brunei Darussalam,Developing,74.8,normal
+382,Brunei Darussalam,Developing,74.7,normal
+383,Brunei Darussalam,Developing,74.4,normal
+384,Bulgaria,Developed,74.5,short
+385,Bulgaria,Developed,74.3,short
+386,Bulgaria,Developed,74.1,short
+387,Bulgaria,Developed,73.9,short
+388,Bulgaria,Developed,73.7,short
+389,Bulgaria,Developed,73.4,short
+390,Bulgaria,Developed,73.2,short
+391,Bulgaria,Developed,72.9,short
+392,Bulgaria,Developed,72.6,short
+393,Bulgaria,Developed,72.2,short
+394,Bulgaria,Developed,72.1,short
+395,Bulgaria,Developed,72.2,short
+396,Bulgaria,Developed,72.0,short
+397,Bulgaria,Developed,71.8,short
+398,Bulgaria,Developed,71.6,short
+399,Bulgaria,Developed,71.1,short
+400,Burkina Faso,Developing,59.9,normal
+401,Burkina Faso,Developing,59.3,normal
+402,Burkina Faso,Developing,59.0,normal
+403,Burkina Faso,Developing,58.6,normal
+404,Burkina Faso,Developing,58.1,short
+405,Burkina Faso,Developing,57.5,short
+406,Burkina Faso,Developing,56.9,short
+407,Burkina Faso,Developing,56.1,short
+408,Burkina Faso,Developing,55.3,short
+409,Burkina Faso,Developing,54.3,short
+410,Burkina Faso,Developing,53.3,short
+411,Burkina Faso,Developing,52.4,short
+412,Burkina Faso,Developing,51.6,short
+413,Burkina Faso,Developing,51.0,short
+414,Burkina Faso,Developing,56.0,short
+415,Burkina Faso,Developing,51.0,short
+416,Burundi,Developing,59.6,normal
+417,Burundi,Developing,59.1,normal
+418,Burundi,Developing,58.6,normal
+419,Burundi,Developing,58.0,short
+420,Burundi,Developing,57.4,short
+421,Burundi,Developing,56.8,short
+422,Burundi,Developing,56.2,short
+423,Burundi,Developing,55.3,short
+424,Burundi,Developing,54.8,short
+425,Burundi,Developing,54.1,short
+426,Burundi,Developing,53.4,short
+427,Burundi,Developing,52.6,short
+428,Burundi,Developing,51.9,short
+429,Burundi,Developing,51.5,short
+430,Burundi,Developing,51.3,short
+431,Burundi,Developing,58.0,short
+432,Côte d'Ivoire,Developing,53.3,short
+433,Côte d'Ivoire,Developing,52.8,short
+434,Côte d'Ivoire,Developing,52.3,short
+435,Côte d'Ivoire,Developing,52.0,short
+436,Côte d'Ivoire,Developing,51.7,short
+437,Côte d'Ivoire,Developing,51.5,short
+438,Côte d'Ivoire,Developing,51.0,short
+439,Côte d'Ivoire,Developing,54.0,short
+440,Côte d'Ivoire,Developing,49.9,short
+441,Côte d'Ivoire,Developing,49.4,short
+442,Côte d'Ivoire,Developing,48.7,short
+443,Côte d'Ivoire,Developing,48.2,short
+444,Côte d'Ivoire,Developing,48.0,short
+445,Côte d'Ivoire,Developing,47.7,short
+446,Côte d'Ivoire,Developing,47.8,short
+447,Côte d'Ivoire,Developing,47.9,short
+448,Cabo Verde,Developing,73.3,normal
+449,Cabo Verde,Developing,73.0,normal
+450,Cabo Verde,Developing,72.8,normal
+451,Cabo Verde,Developing,72.7,normal
+452,Cabo Verde,Developing,72.6,normal
+453,Cabo Verde,Developing,72.5,normal
+454,Cabo Verde,Developing,72.4,normal
+455,Cabo Verde,Developing,72.4,normal
+456,Cabo Verde,Developing,72.3,normal
+457,Cabo Verde,Developing,72.1,normal
+458,Cabo Verde,Developing,71.8,normal
+459,Cabo Verde,Developing,71.4,normal
+460,Cabo Verde,Developing,71.1,normal
+461,Cabo Verde,Developing,77.0,long
+462,Cabo Verde,Developing,73.0,normal
+463,Cabo Verde,Developing,69.9,normal
+464,Cambodia,Developing,68.7,normal
+465,Cambodia,Developing,68.3,normal
+466,Cambodia,Developing,67.8,normal
+467,Cambodia,Developing,67.4,normal
+468,Cambodia,Developing,67.0,normal
+469,Cambodia,Developing,66.6,normal
+470,Cambodia,Developing,66.1,normal
+471,Cambodia,Developing,65.6,normal
+472,Cambodia,Developing,65.0,normal
+473,Cambodia,Developing,64.1,normal
+474,Cambodia,Developing,62.9,normal
+475,Cambodia,Developing,61.5,normal
+476,Cambodia,Developing,63.0,normal
+477,Cambodia,Developing,59.3,normal
+478,Cambodia,Developing,58.5,normal
+479,Cambodia,Developing,57.7,short
+480,Cameroon,Developing,57.3,short
+481,Cameroon,Developing,56.7,short
+482,Cameroon,Developing,56.4,short
+483,Cameroon,Developing,55.9,short
+484,Cameroon,Developing,55.6,short
+485,Cameroon,Developing,55.3,short
+486,Cameroon,Developing,54.8,short
+487,Cameroon,Developing,54.2,short
+488,Cameroon,Developing,53.6,short
+489,Cameroon,Developing,53.3,short
+490,Cameroon,Developing,52.8,short
+491,Cameroon,Developing,52.1,short
+492,Cameroon,Developing,51.8,short
+493,Cameroon,Developing,51.6,short
+494,Cameroon,Developing,51.5,short
+495,Cameroon,Developing,51.4,short
+496,Canada,Developing,82.2,long
+497,Canada,Developing,82.0,long
+498,Canada,Developing,81.8,long
+499,Canada,Developing,81.6,long
+500,Canada,Developing,81.5,long
+501,Canada,Developing,81.2,long
+502,Canada,Developing,81.0,long
+503,Canada,Developing,87.0,long
+504,Canada,Developing,85.0,long
+505,Canada,Developing,85.0,long
+506,Canada,Developing,81.0,long
+507,Canada,Developing,80.0,long
+508,Canada,Developing,79.7,long
+509,Canada,Developing,79.5,long
+510,Canada,Developing,79.4,long
+511,Canada,Developing,79.1,long
+512,Central African Republic,Developing,52.5,short
+513,Central African Republic,Developing,58.0,short
+514,Central African Republic,Developing,49.9,short
+515,Central African Republic,Developing,53.0,short
+516,Central African Republic,Developing,49.8,short
+517,Central African Republic,Developing,49.2,short
+518,Central African Republic,Developing,48.6,short
+519,Central African Republic,Developing,47.6,short
+520,Central African Republic,Developing,46.8,short
+521,Central African Republic,Developing,46.3,short
+522,Central African Republic,Developing,45.9,short
+523,Central African Republic,Developing,45.7,short
+524,Central African Republic,Developing,45.7,short
+525,Central African Republic,Developing,45.6,short
+526,Central African Republic,Developing,45.6,short
+527,Central African Republic,Developing,46.0,short
+528,Chad,Developing,53.1,short
+529,Chad,Developing,52.6,short
+530,Chad,Developing,52.2,short
+531,Chad,Developing,51.8,short
+532,Chad,Developing,51.6,short
+533,Chad,Developing,51.2,short
+534,Chad,Developing,57.0,short
+535,Chad,Developing,49.6,short
+536,Chad,Developing,49.4,short
+537,Chad,Developing,48.5,short
+538,Chad,Developing,48.6,short
+539,Chad,Developing,48.5,short
+540,Chad,Developing,48.4,short
+541,Chad,Developing,48.1,short
+542,Chad,Developing,48.0,short
+543,Chad,Developing,47.6,short
+544,Chile,Developing,85.0,long
+545,Chile,Developing,83.0,long
+546,Chile,Developing,81.0,long
+547,Chile,Developing,79.9,long
+548,Chile,Developing,79.8,long
+549,Chile,Developing,79.1,long
+550,Chile,Developing,79.3,long
+551,Chile,Developing,79.6,long
+552,Chile,Developing,78.9,long
+553,Chile,Developing,78.9,long
+554,Chile,Developing,78.4,long
+555,Chile,Developing,78.0,long
+556,Chile,Developing,77.9,long
+557,Chile,Developing,77.8,long
+558,Chile,Developing,77.3,long
+559,Chile,Developing,77.3,long
+560,China,Developing,76.1,long
+561,China,Developing,75.8,long
+562,China,Developing,75.6,normal
+563,China,Developing,75.4,normal
+564,China,Developing,75.2,normal
+565,China,Developing,75.0,normal
+566,China,Developing,74.9,normal
+567,China,Developing,74.5,normal
+568,China,Developing,74.4,normal
+569,China,Developing,74.2,normal
+570,China,Developing,73.9,normal
+571,China,Developing,73.5,normal
+572,China,Developing,73.1,normal
+573,China,Developing,72.7,normal
+574,China,Developing,72.2,normal
+575,China,Developing,71.7,normal
+576,Colombia,Developing,74.8,normal
+577,Colombia,Developing,74.6,normal
+578,Colombia,Developing,74.4,normal
+579,Colombia,Developing,74.3,normal
+580,Colombia,Developing,74.2,normal
+581,Colombia,Developing,73.6,normal
+582,Colombia,Developing,73.6,normal
+583,Colombia,Developing,73.5,normal
+584,Colombia,Developing,73.5,normal
+585,Colombia,Developing,73.1,normal
+586,Colombia,Developing,73.1,normal
+587,Colombia,Developing,72.8,normal
+588,Colombia,Developing,72.4,normal
+589,Colombia,Developing,71.8,normal
+590,Colombia,Developing,71.5,normal
+591,Colombia,Developing,71.4,normal
+592,Comoros,Developing,63.5,normal
+593,Comoros,Developing,63.2,normal
+594,Comoros,Developing,62.9,normal
+595,Comoros,Developing,62.5,normal
+596,Comoros,Developing,62.2,normal
+597,Comoros,Developing,61.8,normal
+598,Comoros,Developing,61.3,normal
+599,Comoros,Developing,61.0,normal
+600,Comoros,Developing,66.0,normal
+601,Comoros,Developing,63.0,normal
+602,Comoros,Developing,60.0,normal
+603,Comoros,Developing,59.8,normal
+604,Comoros,Developing,59.6,normal
+605,Comoros,Developing,59.5,normal
+606,Comoros,Developing,59.5,normal
+607,Comoros,Developing,59.5,normal
+608,Congo,Developing,64.7,normal
+609,Congo,Developing,64.2,normal
+610,Congo,Developing,63.9,normal
+611,Congo,Developing,63.7,normal
+612,Congo,Developing,62.9,normal
+613,Congo,Developing,62.0,normal
+614,Congo,Developing,68.0,normal
+615,Congo,Developing,59.4,normal
+616,Congo,Developing,58.2,short
+617,Congo,Developing,56.9,short
+618,Congo,Developing,55.3,short
+619,Congo,Developing,54.1,short
+620,Congo,Developing,53.2,short
+621,Congo,Developing,52.6,short
+622,Congo,Developing,52.7,short
+623,Congo,Developing,52.9,short
+624,Cook Islands,Developing,,long
+625,Costa Rica,Developing,79.6,long
+626,Costa Rica,Developing,79.5,long
+627,Costa Rica,Developing,79.4,long
+628,Costa Rica,Developing,79.2,long
+629,Costa Rica,Developing,79.0,long
+630,Costa Rica,Developing,78.1,long
+631,Costa Rica,Developing,79.2,long
+632,Costa Rica,Developing,78.9,long
+633,Costa Rica,Developing,78.9,long
+634,Costa Rica,Developing,78.0,long
+635,Costa Rica,Developing,78.6,long
+636,Costa Rica,Developing,77.7,long
+637,Costa Rica,Developing,78.0,long
+638,Costa Rica,Developing,78.3,long
+639,Costa Rica,Developing,77.5,long
+640,Costa Rica,Developing,77.6,long
+641,Croatia,Developed,78.0,normal
+642,Croatia,Developed,77.8,normal
+643,Croatia,Developed,77.7,normal
+644,Croatia,Developed,77.1,normal
+645,Croatia,Developed,77.0,normal
+646,Croatia,Developed,76.6,normal
+647,Croatia,Developed,76.3,normal
+648,Croatia,Developed,76.0,normal
+649,Croatia,Developed,75.8,short
+650,Croatia,Developed,75.9,short
+651,Croatia,Developed,75.2,short
+652,Croatia,Developed,75.4,short
+653,Croatia,Developed,74.7,short
+654,Croatia,Developed,74.8,short
+655,Croatia,Developed,74.9,short
+656,Croatia,Developed,74.7,short
+657,Cuba,Developing,79.1,long
+658,Cuba,Developing,79.0,long
+659,Cuba,Developing,78.7,long
+660,Cuba,Developing,78.7,long
+661,Cuba,Developing,78.8,long
+662,Cuba,Developing,78.0,long
+663,Cuba,Developing,78.1,long
+664,Cuba,Developing,77.9,long
+665,Cuba,Developing,78.1,long
+666,Cuba,Developing,78.0,long
+667,Cuba,Developing,77.2,long
+668,Cuba,Developing,77.3,long
+669,Cuba,Developing,77.4,long
+670,Cuba,Developing,77.7,long
+671,Cuba,Developing,76.7,long
+672,Cuba,Developing,76.9,long
+673,Cyprus,Developed,85.0,long
+674,Cyprus,Developed,83.0,long
+675,Cyprus,Developed,81.0,normal
+676,Cyprus,Developed,80.0,normal
+677,Cyprus,Developed,79.7,normal
+678,Cyprus,Developed,79.5,normal
+679,Cyprus,Developed,79.3,normal
+680,Cyprus,Developed,79.1,normal
+681,Cyprus,Developed,78.9,normal
+682,Cyprus,Developed,78.8,normal
+683,Cyprus,Developed,78.7,normal
+684,Cyprus,Developed,78.6,normal
+685,Cyprus,Developed,78.5,normal
+686,Cyprus,Developed,78.4,normal
+687,Cyprus,Developed,78.2,normal
+688,Cyprus,Developed,78.1,normal
+689,Czechia,Developed,78.8,normal
+690,Czechia,Developed,78.6,normal
+691,Czechia,Developed,78.2,normal
+692,Czechia,Developed,78.0,normal
+693,Czechia,Developed,77.8,normal
+694,Czechia,Developed,77.5,normal
+695,Czechia,Developed,77.1,normal
+696,Czechia,Developed,77.0,normal
+697,Czechia,Developed,76.8,normal
+698,Czechia,Developed,76.5,normal
+699,Czechia,Developed,75.9,short
+700,Czechia,Developed,75.8,short
+701,Czechia,Developed,75.2,short
+702,Czechia,Developed,75.3,short
+703,Czechia,Developed,75.1,short
+704,Czechia,Developed,74.7,short
+705,Democratic People's Republic of Korea,Developing,76.0,long
+706,Democratic People's Republic of Korea,Developing,73.0,normal
+707,Democratic People's Republic of Korea,Developing,71.0,normal
+708,Democratic People's Republic of Korea,Developing,69.8,normal
+709,Democratic People's Republic of Korea,Developing,69.4,normal
+710,Democratic People's Republic of Korea,Developing,69.0,normal
+711,Democratic People's Republic of Korea,Developing,68.7,normal
+712,Democratic People's Republic of Korea,Developing,68.6,normal
+713,Democratic People's Republic of Korea,Developing,68.5,normal
+714,Democratic People's Republic of Korea,Developing,68.5,normal
+715,Democratic People's Republic of Korea,Developing,68.5,normal
+716,Democratic People's Republic of Korea,Developing,68.4,normal
+717,Democratic People's Republic of Korea,Developing,68.1,normal
+718,Democratic People's Republic of Korea,Developing,67.6,normal
+719,Democratic People's Republic of Korea,Developing,66.6,normal
+720,Democratic People's Republic of Korea,Developing,65.4,normal
+721,Democratic Republic of the Congo,Developing,59.8,normal
+722,Democratic Republic of the Congo,Developing,59.3,normal
+723,Democratic Republic of the Congo,Developing,58.8,normal
+724,Democratic Republic of the Congo,Developing,58.3,short
+725,Democratic Republic of the Congo,Developing,57.9,short
+726,Democratic Republic of the Congo,Developing,57.4,short
+727,Democratic Republic of the Congo,Developing,56.7,short
+728,Democratic Republic of the Congo,Developing,56.3,short
+729,Democratic Republic of the Congo,Developing,55.7,short
+730,Democratic Republic of the Congo,Developing,55.0,short
+731,Democratic Republic of the Congo,Developing,54.3,short
+732,Democratic Republic of the Congo,Developing,53.5,short
+733,Democratic Republic of the Congo,Developing,52.8,short
+734,Democratic Republic of the Congo,Developing,52.1,short
+735,Democratic Republic of the Congo,Developing,51.8,short
+736,Democratic Republic of the Congo,Developing,51.3,short
+737,Denmark,Developed,86.0,long
+738,Denmark,Developed,84.0,long
+739,Denmark,Developed,81.0,normal
+740,Denmark,Developed,80.0,normal
+741,Denmark,Developed,79.7,normal
+742,Denmark,Developed,79.2,normal
+743,Denmark,Developed,78.9,normal
+744,Denmark,Developed,78.8,normal
+745,Denmark,Developed,78.4,normal
+746,Denmark,Developed,78.1,normal
+747,Denmark,Developed,78.1,normal
+748,Denmark,Developed,77.7,normal
+749,Denmark,Developed,77.3,normal
+750,Denmark,Developed,77.0,normal
+751,Denmark,Developed,77.0,normal
+752,Denmark,Developed,76.9,normal
+753,Djibouti,Developing,63.5,normal
+754,Djibouti,Developing,63.0,normal
+755,Djibouti,Developing,62.7,normal
+756,Djibouti,Developing,62.2,normal
+757,Djibouti,Developing,61.8,normal
+758,Djibouti,Developing,61.3,normal
+759,Djibouti,Developing,69.0,normal
+760,Djibouti,Developing,62.0,normal
+761,Djibouti,Developing,59.8,normal
+762,Djibouti,Developing,59.1,normal
+763,Djibouti,Developing,58.6,normal
+764,Djibouti,Developing,58.1,short
+765,Djibouti,Developing,58.0,short
+766,Djibouti,Developing,57.9,short
+767,Djibouti,Developing,57.7,short
+768,Djibouti,Developing,57.4,short
+769,Dominica,Developing,,long
+770,Dominican Republic,Developing,73.9,normal
+771,Dominican Republic,Developing,73.6,normal
+772,Dominican Republic,Developing,73.4,normal
+773,Dominican Republic,Developing,72.1,normal
+774,Dominican Republic,Developing,73.1,normal
+775,Dominican Republic,Developing,72.7,normal
+776,Dominican Republic,Developing,73.6,normal
+777,Dominican Republic,Developing,73.3,normal
+778,Dominican Republic,Developing,72.9,normal
+779,Dominican Republic,Developing,72.3,normal
+780,Dominican Republic,Developing,69.7,normal
+781,Dominican Republic,Developing,69.3,normal
+782,Dominican Republic,Developing,73.0,normal
+783,Dominican Republic,Developing,71.4,normal
+784,Dominican Republic,Developing,71.2,normal
+785,Dominican Republic,Developing,72.0,normal
+786,Ecuador,Developing,76.2,long
+787,Ecuador,Developing,76.0,long
+788,Ecuador,Developing,76.0,long
+789,Ecuador,Developing,75.5,normal
+790,Ecuador,Developing,75.3,normal
+791,Ecuador,Developing,75.0,normal
+792,Ecuador,Developing,75.1,normal
+793,Ecuador,Developing,74.6,normal
+794,Ecuador,Developing,74.7,normal
+795,Ecuador,Developing,74.4,normal
+796,Ecuador,Developing,74.2,normal
+797,Ecuador,Developing,74.4,normal
+798,Ecuador,Developing,74.4,normal
+799,Ecuador,Developing,73.6,normal
+800,Ecuador,Developing,73.4,normal
+801,Ecuador,Developing,72.8,normal
+802,Egypt,Developing,79.0,long
+803,Egypt,Developing,78.0,long
+804,Egypt,Developing,79.0,long
+805,Egypt,Developing,72.0,normal
+806,Egypt,Developing,74.0,normal
+807,Egypt,Developing,70.0,normal
+808,Egypt,Developing,69.9,normal
+809,Egypt,Developing,69.8,normal
+810,Egypt,Developing,69.7,normal
+811,Egypt,Developing,69.5,normal
+812,Egypt,Developing,69.4,normal
+813,Egypt,Developing,69.0,normal
+814,Egypt,Developing,68.6,normal
+815,Egypt,Developing,68.7,normal
+816,Egypt,Developing,68.6,normal
+817,Egypt,Developing,68.8,normal
+818,El Salvador,Developing,73.5,normal
+819,El Salvador,Developing,73.3,normal
+820,El Salvador,Developing,73.0,normal
+821,El Salvador,Developing,73.0,normal
+822,El Salvador,Developing,72.0,normal
+823,El Salvador,Developing,72.0,normal
+824,El Salvador,Developing,71.4,normal
+825,El Salvador,Developing,71.7,normal
+826,El Salvador,Developing,71.2,normal
+827,El Salvador,Developing,75.0,normal
+828,El Salvador,Developing,71.0,normal
+829,El Salvador,Developing,70.0,normal
+830,El Salvador,Developing,69.9,normal
+831,El Salvador,Developing,73.0,normal
+832,El Salvador,Developing,68.9,normal
+833,El Salvador,Developing,69.0,normal
+834,Equatorial Guinea,Developing,58.2,short
+835,Equatorial Guinea,Developing,57.9,short
+836,Equatorial Guinea,Developing,57.4,short
+837,Equatorial Guinea,Developing,56.7,short
+838,Equatorial Guinea,Developing,56.2,short
+839,Equatorial Guinea,Developing,56.1,short
+840,Equatorial Guinea,Developing,55.7,short
+841,Equatorial Guinea,Developing,55.4,short
+842,Equatorial Guinea,Developing,55.0,short
+843,Equatorial Guinea,Developing,54.8,short
+844,Equatorial Guinea,Developing,54.4,short
+845,Equatorial Guinea,Developing,54.1,short
+846,Equatorial Guinea,Developing,53.8,short
+847,Equatorial Guinea,Developing,53.5,short
+848,Equatorial Guinea,Developing,53.1,short
+849,Equatorial Guinea,Developing,52.7,short
+850,Eritrea,Developing,64.7,normal
+851,Eritrea,Developing,64.4,normal
+852,Eritrea,Developing,64.0,normal
+853,Eritrea,Developing,63.6,normal
+854,Eritrea,Developing,62.9,normal
+855,Eritrea,Developing,62.1,normal
+856,Eritrea,Developing,61.4,normal
+857,Eritrea,Developing,67.0,normal
+858,Eritrea,Developing,62.0,normal
+859,Eritrea,Developing,59.7,normal
+860,Eritrea,Developing,59.4,normal
+861,Eritrea,Developing,59.1,normal
+862,Eritrea,Developing,58.8,normal
+863,Eritrea,Developing,58.5,normal
+864,Eritrea,Developing,58.1,short
+865,Eritrea,Developing,45.3,short
+866,Estonia,Developing,77.6,long
+867,Estonia,Developing,77.3,long
+868,Estonia,Developing,76.9,long
+869,Estonia,Developing,76.3,long
+870,Estonia,Developing,76.1,long
+871,Estonia,Developing,75.6,normal
+872,Estonia,Developing,74.9,normal
+873,Estonia,Developing,74.2,normal
+874,Estonia,Developing,73.0,normal
+875,Estonia,Developing,73.0,normal
+876,Estonia,Developing,72.8,normal
+877,Estonia,Developing,72.3,normal
+878,Estonia,Developing,71.9,normal
+879,Estonia,Developing,71.2,normal
+880,Estonia,Developing,78.0,long
+881,Estonia,Developing,78.0,long
+882,Ethiopia,Developing,64.8,normal
+883,Ethiopia,Developing,64.2,normal
+884,Ethiopia,Developing,63.7,normal
+885,Ethiopia,Developing,63.3,normal
+886,Ethiopia,Developing,62.6,normal
+887,Ethiopia,Developing,61.8,normal
+888,Ethiopia,Developing,68.0,normal
+889,Ethiopia,Developing,59.8,normal
+890,Ethiopia,Developing,58.5,normal
+891,Ethiopia,Developing,57.2,short
+892,Ethiopia,Developing,56.0,short
+893,Ethiopia,Developing,55.0,short
+894,Ethiopia,Developing,54.0,short
+895,Ethiopia,Developing,53.2,short
+896,Ethiopia,Developing,52.5,short
+897,Ethiopia,Developing,51.2,short
+898,Fiji,Developing,69.9,normal
+899,Fiji,Developing,69.7,normal
+900,Fiji,Developing,69.6,normal
+901,Fiji,Developing,69.4,normal
+902,Fiji,Developing,69.2,normal
+903,Fiji,Developing,69.1,normal
+904,Fiji,Developing,68.9,normal
+905,Fiji,Developing,68.7,normal
+906,Fiji,Developing,68.6,normal
+907,Fiji,Developing,68.5,normal
+908,Fiji,Developing,68.3,normal
+909,Fiji,Developing,68.1,normal
+910,Fiji,Developing,68.0,normal
+911,Fiji,Developing,67.9,normal
+912,Fiji,Developing,67.8,normal
+913,Fiji,Developing,67.7,normal
+914,Finland,Developing,81.1,long
+915,Finland,Developing,89.0,long
+916,Finland,Developing,87.0,long
+917,Finland,Developing,84.0,long
+918,Finland,Developing,83.0,long
+919,Finland,Developing,79.9,long
+920,Finland,Developing,79.7,long
+921,Finland,Developing,79.6,long
+922,Finland,Developing,79.3,long
+923,Finland,Developing,79.2,long
+924,Finland,Developing,78.9,long
+925,Finland,Developing,78.7,long
+926,Finland,Developing,78.4,long
+927,Finland,Developing,78.1,long
+928,Finland,Developing,78.0,long
+929,Finland,Developing,77.5,long
+930,France,Developing,82.4,long
+931,France,Developing,82.2,long
+932,France,Developing,82.0,long
+933,France,Developing,81.5,long
+934,France,Developing,81.7,long
+935,France,Developing,81.3,long
+936,France,Developing,81.1,long
+937,France,Developing,89.0,long
+938,France,Developing,89.0,long
+939,France,Developing,86.0,long
+940,France,Developing,81.0,long
+941,France,Developing,82.0,long
+942,France,Developing,79.3,long
+943,France,Developing,79.2,long
+944,France,Developing,79.0,long
+945,France,Developing,78.8,long
+946,Gabon,Developing,66.0,normal
+947,Gabon,Developing,65.5,normal
+948,Gabon,Developing,64.6,normal
+949,Gabon,Developing,63.5,normal
+950,Gabon,Developing,62.8,normal
+951,Gabon,Developing,62.3,normal
+952,Gabon,Developing,61.7,normal
+953,Gabon,Developing,61.6,normal
+954,Gabon,Developing,61.6,normal
+955,Gabon,Developing,61.4,normal
+956,Gabon,Developing,65.0,normal
+957,Gabon,Developing,59.7,normal
+958,Gabon,Developing,59.7,normal
+959,Gabon,Developing,59.7,normal
+960,Gabon,Developing,59.8,normal
+961,Gabon,Developing,61.0,normal
+962,Gambia,Developing,61.1,normal
+963,Gambia,Developing,68.0,normal
+964,Gambia,Developing,66.0,normal
+965,Gambia,Developing,62.0,normal
+966,Gambia,Developing,59.8,normal
+967,Gambia,Developing,59.3,normal
+968,Gambia,Developing,59.0,normal
+969,Gambia,Developing,58.7,normal
+970,Gambia,Developing,58.5,normal
+971,Gambia,Developing,58.2,short
+972,Gambia,Developing,57.7,short
+973,Gambia,Developing,57.3,short
+974,Gambia,Developing,57.0,short
+975,Gambia,Developing,56.6,short
+976,Gambia,Developing,56.3,short
+977,Gambia,Developing,55.9,short
+978,Georgia,Developing,74.4,normal
+979,Georgia,Developing,74.5,normal
+980,Georgia,Developing,74.5,normal
+981,Georgia,Developing,74.2,normal
+982,Georgia,Developing,73.9,normal
+983,Georgia,Developing,73.8,normal
+984,Georgia,Developing,73.2,normal
+985,Georgia,Developing,73.9,normal
+986,Georgia,Developing,74.4,normal
+987,Georgia,Developing,73.9,normal
+988,Georgia,Developing,73.9,normal
+989,Georgia,Developing,72.3,normal
+990,Georgia,Developing,72.7,normal
+991,Georgia,Developing,71.7,normal
+992,Georgia,Developing,73.0,normal
+993,Georgia,Developing,71.8,normal
+994,Germany,Developed,81.0,normal
+995,Germany,Developed,89.0,long
+996,Germany,Developed,86.0,long
+997,Germany,Developed,86.0,long
+998,Germany,Developed,85.0,long
+999,Germany,Developed,81.0,normal
+1000,Germany,Developed,80.0,normal
+1001,Germany,Developed,79.9,normal
+1002,Germany,Developed,79.8,normal
+1003,Germany,Developed,79.6,normal
+1004,Germany,Developed,79.2,normal
+1005,Germany,Developed,79.1,normal
+1006,Germany,Developed,78.5,normal
+1007,Germany,Developed,78.4,normal
+1008,Germany,Developed,78.3,normal
+1009,Germany,Developed,78.0,normal
+1010,Ghana,Developing,62.4,normal
+1011,Ghana,Developing,62.1,normal
+1012,Ghana,Developing,61.9,normal
+1013,Ghana,Developing,61.6,normal
+1014,Ghana,Developing,61.2,normal
+1015,Ghana,Developing,69.0,normal
+1016,Ghana,Developing,66.0,normal
+1017,Ghana,Developing,63.0,normal
+1018,Ghana,Developing,59.9,normal
+1019,Ghana,Developing,59.4,normal
+1020,Ghana,Developing,58.9,normal
+1021,Ghana,Developing,58.3,short
+1022,Ghana,Developing,57.9,short
+1023,Ghana,Developing,57.6,short
+1024,Ghana,Developing,57.4,short
+1025,Ghana,Developing,57.2,short
+1026,Greece,Developing,81.0,long
+1027,Greece,Developing,88.0,long
+1028,Greece,Developing,86.0,long
+1029,Greece,Developing,84.0,long
+1030,Greece,Developing,85.0,long
+1031,Greece,Developing,83.0,long
+1032,Greece,Developing,80.0,long
+1033,Greece,Developing,79.9,long
+1034,Greece,Developing,79.4,long
+1035,Greece,Developing,79.7,long
+1036,Greece,Developing,79.3,long
+1037,Greece,Developing,79.2,long
+1038,Greece,Developing,79.1,long
+1039,Greece,Developing,79.0,long
+1040,Greece,Developing,78.7,long
+1041,Greece,Developing,78.2,long
+1042,Grenada,Developing,73.6,normal
+1043,Grenada,Developing,73.5,normal
+1044,Grenada,Developing,73.3,normal
+1045,Grenada,Developing,73.1,normal
+1046,Grenada,Developing,72.9,normal
+1047,Grenada,Developing,72.6,normal
+1048,Grenada,Developing,72.4,normal
+1049,Grenada,Developing,72.1,normal
+1050,Grenada,Developing,71.9,normal
+1051,Grenada,Developing,71.7,normal
+1052,Grenada,Developing,71.5,normal
+1053,Grenada,Developing,73.0,normal
+1054,Grenada,Developing,71.1,normal
+1055,Grenada,Developing,79.0,long
+1056,Grenada,Developing,77.0,long
+1057,Grenada,Developing,74.0,normal
+1058,Guatemala,Developing,71.9,normal
+1059,Guatemala,Developing,71.7,normal
+1060,Guatemala,Developing,71.4,normal
+1061,Guatemala,Developing,71.3,normal
+1062,Guatemala,Developing,71.1,normal
+1063,Guatemala,Developing,77.0,long
+1064,Guatemala,Developing,76.0,long
+1065,Guatemala,Developing,79.0,long
+1066,Guatemala,Developing,75.0,normal
+1067,Guatemala,Developing,69.7,normal
+1068,Guatemala,Developing,69.2,normal
+1069,Guatemala,Developing,69.6,normal
+1070,Guatemala,Developing,69.4,normal
+1071,Guatemala,Developing,69.3,normal
+1072,Guatemala,Developing,68.4,normal
+1073,Guatemala,Developing,67.7,normal
+1074,Guinea,Developing,59.0,normal
+1075,Guinea,Developing,58.1,short
+1076,Guinea,Developing,58.8,normal
+1077,Guinea,Developing,58.4,short
+1078,Guinea,Developing,58.1,short
+1079,Guinea,Developing,57.8,short
+1080,Guinea,Developing,57.3,short
+1081,Guinea,Developing,56.8,short
+1082,Guinea,Developing,56.4,short
+1083,Guinea,Developing,55.6,short
+1084,Guinea,Developing,54.7,short
+1085,Guinea,Developing,54.0,short
+1086,Guinea,Developing,53.3,short
+1087,Guinea,Developing,52.9,short
+1088,Guinea,Developing,52.5,short
+1089,Guinea,Developing,52.5,short
+1090,Guinea-Bissau,Developing,58.9,normal
+1091,Guinea-Bissau,Developing,58.4,short
+1092,Guinea-Bissau,Developing,58.1,short
+1093,Guinea-Bissau,Developing,57.6,short
+1094,Guinea-Bissau,Developing,57.1,short
+1095,Guinea-Bissau,Developing,56.7,short
+1096,Guinea-Bissau,Developing,56.3,short
+1097,Guinea-Bissau,Developing,55.6,short
+1098,Guinea-Bissau,Developing,55.0,short
+1099,Guinea-Bissau,Developing,54.4,short
+1100,Guinea-Bissau,Developing,53.9,short
+1101,Guinea-Bissau,Developing,53.5,short
+1102,Guinea-Bissau,Developing,53.0,short
+1103,Guinea-Bissau,Developing,52.8,short
+1104,Guinea-Bissau,Developing,52.5,short
+1105,Guinea-Bissau,Developing,52.1,short
+1106,Guyana,Developing,66.2,normal
+1107,Guyana,Developing,66.0,normal
+1108,Guyana,Developing,65.9,normal
+1109,Guyana,Developing,65.8,normal
+1110,Guyana,Developing,65.6,normal
+1111,Guyana,Developing,65.9,normal
+1112,Guyana,Developing,66.1,normal
+1113,Guyana,Developing,66.3,normal
+1114,Guyana,Developing,65.7,normal
+1115,Guyana,Developing,65.2,normal
+1116,Guyana,Developing,65.0,normal
+1117,Guyana,Developing,65.1,normal
+1118,Guyana,Developing,65.3,normal
+1119,Guyana,Developing,65.3,normal
+1120,Guyana,Developing,65.4,normal
+1121,Guyana,Developing,65.4,normal
+1122,Haiti,Developing,63.5,normal
+1123,Haiti,Developing,63.1,normal
+1124,Haiti,Developing,62.7,normal
+1125,Haiti,Developing,62.3,normal
+1126,Haiti,Developing,62.3,normal
+1127,Haiti,Developing,36.3,short
+1128,Haiti,Developing,62.5,normal
+1129,Haiti,Developing,62.1,normal
+1130,Haiti,Developing,61.8,normal
+1131,Haiti,Developing,61.1,normal
+1132,Haiti,Developing,65.0,normal
+1133,Haiti,Developing,58.7,normal
+1134,Haiti,Developing,59.7,normal
+1135,Haiti,Developing,59.3,normal
+1136,Haiti,Developing,58.9,normal
+1137,Haiti,Developing,58.6,normal
+1138,Honduras,Developing,74.6,normal
+1139,Honduras,Developing,74.5,normal
+1140,Honduras,Developing,74.3,normal
+1141,Honduras,Developing,74.1,normal
+1142,Honduras,Developing,73.9,normal
+1143,Honduras,Developing,73.6,normal
+1144,Honduras,Developing,73.4,normal
+1145,Honduras,Developing,73.2,normal
+1146,Honduras,Developing,73.0,normal
+1147,Honduras,Developing,72.8,normal
+1148,Honduras,Developing,72.5,normal
+1149,Honduras,Developing,72.2,normal
+1150,Honduras,Developing,71.9,normal
+1151,Honduras,Developing,71.6,normal
+1152,Honduras,Developing,71.3,normal
+1153,Honduras,Developing,71.0,normal
+1154,Hungary,Developed,75.8,short
+1155,Hungary,Developed,75.6,short
+1156,Hungary,Developed,75.5,short
+1157,Hungary,Developed,75.0,short
+1158,Hungary,Developed,74.8,short
+1159,Hungary,Developed,74.5,short
+1160,Hungary,Developed,74.2,short
+1161,Hungary,Developed,74.1,short
+1162,Hungary,Developed,73.5,short
+1163,Hungary,Developed,73.4,short
+1164,Hungary,Developed,72.9,short
+1165,Hungary,Developed,72.9,short
+1166,Hungary,Developed,72.5,short
+1167,Hungary,Developed,72.5,short
+1168,Hungary,Developed,72.3,short
+1169,Hungary,Developed,71.7,short
+1170,Iceland,Developed,82.7,long
+1171,Iceland,Developed,82.5,long
+1172,Iceland,Developed,82.4,normal
+1173,Iceland,Developed,82.5,long
+1174,Iceland,Developed,82.1,normal
+1175,Iceland,Developed,81.8,normal
+1176,Iceland,Developed,81.6,normal
+1177,Iceland,Developed,81.4,normal
+1178,Iceland,Developed,81.3,normal
+1179,Iceland,Developed,81.1,normal
+1180,Iceland,Developed,81.0,normal
+1181,Iceland,Developed,88.0,long
+1182,Iceland,Developed,87.0,long
+1183,Iceland,Developed,84.0,long
+1184,Iceland,Developed,80.0,normal
+1185,Iceland,Developed,79.7,normal
+1186,India,Developing,68.3,normal
+1187,India,Developing,68.0,normal
+1188,India,Developing,67.6,normal
+1189,India,Developing,67.3,normal
+1190,India,Developing,66.8,normal
+1191,India,Developing,66.4,normal
+1192,India,Developing,66.0,normal
+1193,India,Developing,65.5,normal
+1194,India,Developing,65.2,normal
+1195,India,Developing,64.8,normal
+1196,India,Developing,64.4,normal
+1197,India,Developing,64.0,normal
+1198,India,Developing,63.7,normal
+1199,India,Developing,63.3,normal
+1200,India,Developing,62.9,normal
+1201,India,Developing,62.5,normal
+1202,Indonesia,Developing,69.1,normal
+1203,Indonesia,Developing,68.9,normal
+1204,Indonesia,Developing,68.7,normal
+1205,Indonesia,Developing,68.5,normal
+1206,Indonesia,Developing,68.3,normal
+1207,Indonesia,Developing,68.1,normal
+1208,Indonesia,Developing,67.9,normal
+1209,Indonesia,Developing,67.7,normal
+1210,Indonesia,Developing,67.5,normal
+1211,Indonesia,Developing,67.3,normal
+1212,Indonesia,Developing,67.2,normal
+1213,Indonesia,Developing,65.3,normal
+1214,Indonesia,Developing,66.9,normal
+1215,Indonesia,Developing,66.7,normal
+1216,Indonesia,Developing,66.5,normal
+1217,Indonesia,Developing,66.3,normal
+1218,Iran (Islamic Republic of),Developing,75.5,normal
+1219,Iran (Islamic Republic of),Developing,75.4,normal
+1220,Iran (Islamic Republic of),Developing,75.3,normal
+1221,Iran (Islamic Republic of),Developing,75.1,normal
+1222,Iran (Islamic Republic of),Developing,74.7,normal
+1223,Iran (Islamic Republic of),Developing,74.1,normal
+1224,Iran (Islamic Republic of),Developing,73.3,normal
+1225,Iran (Islamic Republic of),Developing,72.7,normal
+1226,Iran (Islamic Republic of),Developing,72.4,normal
+1227,Iran (Islamic Republic of),Developing,72.2,normal
+1228,Iran (Islamic Republic of),Developing,72.0,normal
+1229,Iran (Islamic Republic of),Developing,71.8,normal
+1230,Iran (Islamic Republic of),Developing,75.0,normal
+1231,Iran (Islamic Republic of),Developing,71.2,normal
+1232,Iran (Islamic Republic of),Developing,78.0,long
+1233,Iran (Islamic Republic of),Developing,73.0,normal
+1234,Iraq,Developing,68.9,normal
+1235,Iraq,Developing,67.9,normal
+1236,Iraq,Developing,69.5,normal
+1237,Iraq,Developing,76.0,long
+1238,Iraq,Developing,77.0,long
+1239,Iraq,Developing,76.0,long
+1240,Iraq,Developing,74.0,normal
+1241,Iraq,Developing,69.3,normal
+1242,Iraq,Developing,65.9,normal
+1243,Iraq,Developing,64.7,normal
+1244,Iraq,Developing,66.8,normal
+1245,Iraq,Developing,67.2,normal
+1246,Iraq,Developing,66.5,normal
+1247,Iraq,Developing,74.0,normal
+1248,Iraq,Developing,72.0,normal
+1249,Iraq,Developing,70.0,normal
+1250,Ireland,Developed,81.4,normal
+1251,Ireland,Developed,81.2,normal
+1252,Ireland,Developed,81.0,normal
+1253,Ireland,Developed,85.0,long
+1254,Ireland,Developed,84.0,long
+1255,Ireland,Developed,86.0,long
+1256,Ireland,Developed,79.7,normal
+1257,Ireland,Developed,79.8,normal
+1258,Ireland,Developed,79.5,normal
+1259,Ireland,Developed,79.0,normal
+1260,Ireland,Developed,78.7,normal
+1261,Ireland,Developed,78.3,normal
+1262,Ireland,Developed,78.0,normal
+1263,Ireland,Developed,77.4,normal
+1264,Ireland,Developed,77.0,normal
+1265,Ireland,Developed,76.4,normal
+1266,Israel,Developing,82.5,long
+1267,Israel,Developing,82.2,long
+1268,Israel,Developing,82.1,long
+1269,Israel,Developing,81.8,long
+1270,Israel,Developing,81.8,long
+1271,Israel,Developing,81.7,long
+1272,Israel,Developing,81.5,long
+1273,Israel,Developing,81.0,long
+1274,Israel,Developing,84.0,long
+1275,Israel,Developing,84.0,long
+1276,Israel,Developing,80.0,long
+1277,Israel,Developing,81.0,long
+1278,Israel,Developing,79.7,long
+1279,Israel,Developing,79.3,long
+1280,Israel,Developing,79.3,long
+1281,Israel,Developing,78.9,long
+1282,Italy,Developed,82.7,long
+1283,Italy,Developed,82.5,long
+1284,Italy,Developed,82.3,normal
+1285,Italy,Developed,82.0,normal
+1286,Italy,Developed,82.0,normal
+1287,Italy,Developed,81.8,normal
+1288,Italy,Developed,81.6,normal
+1289,Italy,Developed,81.5,normal
+1290,Italy,Developed,81.3,normal
+1291,Italy,Developed,81.2,normal
+1292,Italy,Developed,88.0,long
+1293,Italy,Developed,89.0,long
+1294,Italy,Developed,79.9,normal
+1295,Italy,Developed,80.0,normal
+1296,Italy,Developed,79.8,normal
+1297,Italy,Developed,79.4,normal
+1298,Jamaica,Developing,76.2,long
+1299,Jamaica,Developing,75.8,long
+1300,Jamaica,Developing,75.6,normal
+1301,Jamaica,Developing,75.3,normal
+1302,Jamaica,Developing,75.2,normal
+1303,Jamaica,Developing,75.0,normal
+1304,Jamaica,Developing,74.7,normal
+1305,Jamaica,Developing,74.5,normal
+1306,Jamaica,Developing,74.2,normal
+1307,Jamaica,Developing,74.0,normal
+1308,Jamaica,Developing,73.5,normal
+1309,Jamaica,Developing,73.3,normal
+1310,Jamaica,Developing,73.1,normal
+1311,Jamaica,Developing,73.0,normal
+1312,Jamaica,Developing,72.7,normal
+1313,Jamaica,Developing,72.6,normal
+1314,Japan,Developed,83.7,long
+1315,Japan,Developed,83.5,long
+1316,Japan,Developed,83.5,long
+1317,Japan,Developed,83.3,long
+1318,Japan,Developed,82.5,long
+1319,Japan,Developed,83.0,long
+1320,Japan,Developed,83.0,long
+1321,Japan,Developed,82.7,long
+1322,Japan,Developed,82.6,long
+1323,Japan,Developed,82.4,normal
+1324,Japan,Developed,82.0,normal
+1325,Japan,Developed,82.1,normal
+1326,Japan,Developed,81.9,normal
+1327,Japan,Developed,81.8,normal
+1328,Japan,Developed,81.5,normal
+1329,Japan,Developed,81.1,normal
+1330,Jordan,Developing,74.1,normal
+1331,Jordan,Developing,74.0,normal
+1332,Jordan,Developing,73.9,normal
+1333,Jordan,Developing,73.7,normal
+1334,Jordan,Developing,73.6,normal
+1335,Jordan,Developing,73.4,normal
+1336,Jordan,Developing,73.3,normal
+1337,Jordan,Developing,73.1,normal
+1338,Jordan,Developing,73.0,normal
+1339,Jordan,Developing,72.8,normal
+1340,Jordan,Developing,72.4,normal
+1341,Jordan,Developing,72.5,normal
+1342,Jordan,Developing,72.3,normal
+1343,Jordan,Developing,72.1,normal
+1344,Jordan,Developing,71.9,normal
+1345,Jordan,Developing,71.7,normal
+1346,Kazakhstan,Developing,72.0,normal
+1347,Kazakhstan,Developing,69.9,normal
+1348,Kazakhstan,Developing,69.5,normal
+1349,Kazakhstan,Developing,69.1,normal
+1350,Kazakhstan,Developing,68.5,normal
+1351,Kazakhstan,Developing,67.8,normal
+1352,Kazakhstan,Developing,67.8,normal
+1353,Kazakhstan,Developing,66.6,normal
+1354,Kazakhstan,Developing,65.3,normal
+1355,Kazakhstan,Developing,65.0,normal
+1356,Kazakhstan,Developing,64.6,normal
+1357,Kazakhstan,Developing,64.7,normal
+1358,Kazakhstan,Developing,64.4,normal
+1359,Kazakhstan,Developing,64.7,normal
+1360,Kazakhstan,Developing,64.4,normal
+1361,Kazakhstan,Developing,63.9,normal
+1362,Kenya,Developing,63.4,normal
+1363,Kenya,Developing,62.9,normal
+1364,Kenya,Developing,62.6,normal
+1365,Kenya,Developing,62.1,normal
+1366,Kenya,Developing,61.2,normal
+1367,Kenya,Developing,63.0,normal
+1368,Kenya,Developing,59.1,normal
+1369,Kenya,Developing,57.9,short
+1370,Kenya,Developing,56.8,short
+1371,Kenya,Developing,55.3,short
+1372,Kenya,Developing,54.1,short
+1373,Kenya,Developing,53.0,short
+1374,Kenya,Developing,52.4,short
+1375,Kenya,Developing,52.1,short
+1376,Kenya,Developing,51.9,short
+1377,Kenya,Developing,51.9,short
+1378,Kiribati,Developing,66.3,normal
+1379,Kiribati,Developing,66.1,normal
+1380,Kiribati,Developing,65.8,normal
+1381,Kiribati,Developing,65.7,normal
+1382,Kiribati,Developing,65.5,normal
+1383,Kiribati,Developing,65.3,normal
+1384,Kiribati,Developing,65.2,normal
+1385,Kiribati,Developing,65.1,normal
+1386,Kiribati,Developing,65.0,normal
+1387,Kiribati,Developing,65.0,normal
+1388,Kiribati,Developing,64.9,normal
+1389,Kiribati,Developing,64.8,normal
+1390,Kiribati,Developing,64.7,normal
+1391,Kiribati,Developing,64.6,normal
+1392,Kiribati,Developing,64.3,normal
+1393,Kiribati,Developing,64.1,normal
+1394,Kuwait,Developing,74.7,normal
+1395,Kuwait,Developing,74.6,normal
+1396,Kuwait,Developing,74.5,normal
+1397,Kuwait,Developing,74.3,normal
+1398,Kuwait,Developing,74.2,normal
+1399,Kuwait,Developing,74.0,normal
+1400,Kuwait,Developing,73.9,normal
+1401,Kuwait,Developing,73.8,normal
+1402,Kuwait,Developing,73.7,normal
+1403,Kuwait,Developing,73.6,normal
+1404,Kuwait,Developing,73.6,normal
+1405,Kuwait,Developing,73.5,normal
+1406,Kuwait,Developing,73.4,normal
+1407,Kuwait,Developing,73.3,normal
+1408,Kuwait,Developing,73.2,normal
+1409,Kuwait,Developing,73.2,normal
+1410,Kyrgyzstan,Developing,71.1,normal
+1411,Kyrgyzstan,Developing,78.0,long
+1412,Kyrgyzstan,Developing,77.0,long
+1413,Kyrgyzstan,Developing,69.9,normal
+1414,Kyrgyzstan,Developing,69.4,normal
+1415,Kyrgyzstan,Developing,68.8,normal
+1416,Kyrgyzstan,Developing,68.5,normal
+1417,Kyrgyzstan,Developing,67.6,normal
+1418,Kyrgyzstan,Developing,67.2,normal
+1419,Kyrgyzstan,Developing,66.7,normal
+1420,Kyrgyzstan,Developing,66.9,normal
+1421,Kyrgyzstan,Developing,67.1,normal
+1422,Kyrgyzstan,Developing,66.6,normal
+1423,Kyrgyzstan,Developing,66.7,normal
+1424,Kyrgyzstan,Developing,67.2,normal
+1425,Kyrgyzstan,Developing,66.6,normal
+1426,Lao People's Democratic Republic,Developing,65.7,normal
+1427,Lao People's Democratic Republic,Developing,65.3,normal
+1428,Lao People's Democratic Republic,Developing,64.9,normal
+1429,Lao People's Democratic Republic,Developing,64.4,normal
+1430,Lao People's Democratic Republic,Developing,64.0,normal
+1431,Lao People's Democratic Republic,Developing,63.6,normal
+1432,Lao People's Democratic Republic,Developing,63.1,normal
+1433,Lao People's Democratic Republic,Developing,62.6,normal
+1434,Lao People's Democratic Republic,Developing,62.1,normal
+1435,Lao People's Democratic Republic,Developing,61.5,normal
+1436,Lao People's Democratic Republic,Developing,61.0,normal
+1437,Lao People's Democratic Republic,Developing,64.0,normal
+1438,Lao People's Democratic Republic,Developing,59.8,normal
+1439,Lao People's Democratic Republic,Developing,59.3,normal
+1440,Lao People's Democratic Republic,Developing,58.7,normal
+1441,Lao People's Democratic Republic,Developing,58.1,short
+1442,Latvia,Developed,74.6,short
+1443,Latvia,Developed,74.4,short
+1444,Latvia,Developed,74.1,short
+1445,Latvia,Developed,73.8,short
+1446,Latvia,Developed,73.6,short
+1447,Latvia,Developed,72.8,short
+1448,Latvia,Developed,72.6,short
+1449,Latvia,Developed,71.9,short
+1450,Latvia,Developed,78.0,normal
+1451,Latvia,Developed,75.0,short
+1452,Latvia,Developed,76.0,normal
+1453,Latvia,Developed,71.0,short
+1454,Latvia,Developed,78.0,normal
+1455,Latvia,Developed,73.0,short
+1456,Latvia,Developed,69.9,short
+1457,Latvia,Developed,71.0,short
+1458,Lebanon,Developing,74.9,normal
+1459,Lebanon,Developing,74.8,normal
+1460,Lebanon,Developing,74.9,normal
+1461,Lebanon,Developing,75.0,normal
+1462,Lebanon,Developing,75.0,normal
+1463,Lebanon,Developing,74.9,normal
+1464,Lebanon,Developing,74.7,normal
+1465,Lebanon,Developing,74.5,normal
+1466,Lebanon,Developing,74.4,normal
+1467,Lebanon,Developing,74.1,normal
+1468,Lebanon,Developing,73.9,normal
+1469,Lebanon,Developing,73.7,normal
+1470,Lebanon,Developing,73.5,normal
+1471,Lebanon,Developing,73.2,normal
+1472,Lebanon,Developing,73.0,normal
+1473,Lebanon,Developing,72.7,normal
+1474,Lesotho,Developing,53.7,short
+1475,Lesotho,Developing,52.1,short
+1476,Lesotho,Developing,52.1,short
+1477,Lesotho,Developing,52.2,short
+1478,Lesotho,Developing,52.3,short
+1479,Lesotho,Developing,51.1,short
+1480,Lesotho,Developing,49.4,short
+1481,Lesotho,Developing,47.8,short
+1482,Lesotho,Developing,46.2,short
+1483,Lesotho,Developing,45.3,short
+1484,Lesotho,Developing,44.5,short
+1485,Lesotho,Developing,44.8,short
+1486,Lesotho,Developing,45.5,short
+1487,Lesotho,Developing,46.4,short
+1488,Lesotho,Developing,47.8,short
+1489,Lesotho,Developing,49.3,short
+1490,Liberia,Developing,61.4,normal
+1491,Liberia,Developing,58.1,short
+1492,Liberia,Developing,61.1,normal
+1493,Liberia,Developing,67.0,normal
+1494,Liberia,Developing,62.0,normal
+1495,Liberia,Developing,59.7,normal
+1496,Liberia,Developing,59.2,normal
+1497,Liberia,Developing,58.6,normal
+1498,Liberia,Developing,57.9,short
+1499,Liberia,Developing,56.7,short
+1500,Liberia,Developing,55.3,short
+1501,Liberia,Developing,54.0,short
+1502,Liberia,Developing,50.0,short
+1503,Liberia,Developing,56.0,short
+1504,Liberia,Developing,51.5,short
+1505,Liberia,Developing,51.9,short
+1506,Libya,Developing,72.7,normal
+1507,Libya,Developing,72.4,normal
+1508,Libya,Developing,72.9,normal
+1509,Libya,Developing,72.9,normal
+1510,Libya,Developing,71.3,normal
+1511,Libya,Developing,72.8,normal
+1512,Libya,Developing,72.7,normal
+1513,Libya,Developing,72.6,normal
+1514,Libya,Developing,72.5,normal
+1515,Libya,Developing,72.2,normal
+1516,Libya,Developing,71.9,normal
+1517,Libya,Developing,71.5,normal
+1518,Libya,Developing,71.3,normal
+1519,Libya,Developing,71.1,normal
+1520,Libya,Developing,71.0,normal
+1521,Libya,Developing,78.0,long
+1522,Lithuania,Developed,73.6,short
+1523,Lithuania,Developed,73.4,short
+1524,Lithuania,Developed,73.0,short
+1525,Lithuania,Developed,73.0,short
+1526,Lithuania,Developed,72.8,short
+1527,Lithuania,Developed,72.4,short
+1528,Lithuania,Developed,72.2,short
+1529,Lithuania,Developed,71.1,short
+1530,Lithuania,Developed,72.0,short
+1531,Lithuania,Developed,76.0,normal
+1532,Lithuania,Developed,78.0,normal
+1533,Lithuania,Developed,71.6,short
+1534,Lithuania,Developed,71.6,short
+1535,Lithuania,Developed,71.4,short
+1536,Lithuania,Developed,71.2,short
+1537,Lithuania,Developed,71.6,short
+1538,Luxembourg,Developed,82.0,normal
+1539,Luxembourg,Developed,81.7,normal
+1540,Luxembourg,Developed,81.4,normal
+1541,Luxembourg,Developed,81.1,normal
+1542,Luxembourg,Developed,88.0,long
+1543,Luxembourg,Developed,86.0,long
+1544,Luxembourg,Developed,83.0,long
+1545,Luxembourg,Developed,80.0,normal
+1546,Luxembourg,Developed,79.7,normal
+1547,Luxembourg,Developed,79.4,normal
+1548,Luxembourg,Developed,78.8,normal
+1549,Luxembourg,Developed,78.7,normal
+1550,Luxembourg,Developed,78.6,normal
+1551,Luxembourg,Developed,78.3,normal
+1552,Luxembourg,Developed,78.0,normal
+1553,Luxembourg,Developed,77.8,normal
+1554,Madagascar,Developing,65.5,normal
+1555,Madagascar,Developing,65.1,normal
+1556,Madagascar,Developing,64.7,normal
+1557,Madagascar,Developing,64.3,normal
+1558,Madagascar,Developing,63.8,normal
+1559,Madagascar,Developing,63.3,normal
+1560,Madagascar,Developing,62.8,normal
+1561,Madagascar,Developing,62.3,normal
+1562,Madagascar,Developing,61.9,normal
+1563,Madagascar,Developing,61.4,normal
+1564,Madagascar,Developing,69.0,normal
+1565,Madagascar,Developing,64.0,normal
+1566,Madagascar,Developing,59.9,normal
+1567,Madagascar,Developing,59.3,normal
+1568,Madagascar,Developing,58.7,normal
+1569,Madagascar,Developing,57.9,short
+1570,Malawi,Developing,58.3,short
+1571,Malawi,Developing,57.6,short
+1572,Malawi,Developing,56.7,short
+1573,Malawi,Developing,55.3,short
+1574,Malawi,Developing,54.1,short
+1575,Malawi,Developing,52.9,short
+1576,Malawi,Developing,51.5,short
+1577,Malawi,Developing,50.0,short
+1578,Malawi,Developing,48.5,short
+1579,Malawi,Developing,47.1,short
+1580,Malawi,Developing,46.0,short
+1581,Malawi,Developing,45.1,short
+1582,Malawi,Developing,44.6,short
+1583,Malawi,Developing,44.0,short
+1584,Malawi,Developing,43.5,short
+1585,Malawi,Developing,43.1,short
+1586,Malaysia,Developing,75.0,normal
+1587,Malaysia,Developing,74.8,normal
+1588,Malaysia,Developing,74.6,normal
+1589,Malaysia,Developing,74.5,normal
+1590,Malaysia,Developing,74.3,normal
+1591,Malaysia,Developing,74.1,normal
+1592,Malaysia,Developing,74.0,normal
+1593,Malaysia,Developing,73.8,normal
+1594,Malaysia,Developing,73.7,normal
+1595,Malaysia,Developing,73.6,normal
+1596,Malaysia,Developing,73.4,normal
+1597,Malaysia,Developing,73.2,normal
+1598,Malaysia,Developing,73.1,normal
+1599,Malaysia,Developing,72.9,normal
+1600,Malaysia,Developing,72.7,normal
+1601,Malaysia,Developing,72.4,normal
+1602,Maldives,Developing,78.5,long
+1603,Maldives,Developing,78.2,long
+1604,Maldives,Developing,77.9,long
+1605,Maldives,Developing,77.6,long
+1606,Maldives,Developing,77.3,long
+1607,Maldives,Developing,76.7,long
+1608,Maldives,Developing,76.3,long
+1609,Maldives,Developing,75.9,long
+1610,Maldives,Developing,75.4,normal
+1611,Maldives,Developing,75.0,normal
+1612,Maldives,Developing,74.3,normal
+1613,Maldives,Developing,73.4,normal
+1614,Maldives,Developing,72.7,normal
+1615,Maldives,Developing,71.8,normal
+1616,Maldives,Developing,78.0,long
+1617,Maldives,Developing,69.6,normal
+1618,Mali,Developing,58.2,short
+1619,Mali,Developing,57.8,short
+1620,Mali,Developing,57.3,short
+1621,Mali,Developing,57.2,short
+1622,Mali,Developing,56.8,short
+1623,Mali,Developing,56.5,short
+1624,Mali,Developing,56.0,short
+1625,Mali,Developing,55.5,short
+1626,Mali,Developing,55.0,short
+1627,Mali,Developing,54.3,short
+1628,Mali,Developing,53.6,short
+1629,Mali,Developing,52.8,short
+1630,Mali,Developing,52.0,short
+1631,Mali,Developing,51.2,short
+1632,Mali,Developing,55.0,short
+1633,Mali,Developing,49.8,short
+1634,Malta,Developed,81.7,normal
+1635,Malta,Developed,81.4,normal
+1636,Malta,Developed,81.1,normal
+1637,Malta,Developed,81.0,normal
+1638,Malta,Developed,87.0,long
+1639,Malta,Developed,83.0,long
+1640,Malta,Developed,82.0,normal
+1641,Malta,Developed,80.0,normal
+1642,Malta,Developed,79.6,normal
+1643,Malta,Developed,79.3,normal
+1644,Malta,Developed,79.0,normal
+1645,Malta,Developed,78.7,normal
+1646,Malta,Developed,78.5,normal
+1647,Malta,Developed,78.2,normal
+1648,Malta,Developed,77.8,normal
+1649,Malta,Developed,77.5,normal
+1650,Marshall Islands,Developing,,long
+1651,Mauritania,Developing,63.1,normal
+1652,Mauritania,Developing,63.0,normal
+1653,Mauritania,Developing,62.7,normal
+1654,Mauritania,Developing,62.5,normal
+1655,Mauritania,Developing,62.2,normal
+1656,Mauritania,Developing,62.0,normal
+1657,Mauritania,Developing,61.7,normal
+1658,Mauritania,Developing,61.4,normal
+1659,Mauritania,Developing,61.2,normal
+1660,Mauritania,Developing,69.0,normal
+1661,Mauritania,Developing,66.0,normal
+1662,Mauritania,Developing,64.0,normal
+1663,Mauritania,Developing,63.0,normal
+1664,Mauritania,Developing,62.0,normal
+1665,Mauritania,Developing,61.0,normal
+1666,Mauritania,Developing,60.0,normal
+1667,Mauritius,Developing,74.6,normal
+1668,Mauritius,Developing,74.2,normal
+1669,Mauritius,Developing,74.1,normal
+1670,Mauritius,Developing,73.9,normal
+1671,Mauritius,Developing,73.6,normal
+1672,Mauritius,Developing,73.3,normal
+1673,Mauritius,Developing,72.8,normal
+1674,Mauritius,Developing,72.7,normal
+1675,Mauritius,Developing,72.9,normal
+1676,Mauritius,Developing,71.8,normal
+1677,Mauritius,Developing,72.1,normal
+1678,Mauritius,Developing,71.9,normal
+1679,Mauritius,Developing,71.5,normal
+1680,Mauritius,Developing,71.5,normal
+1681,Mauritius,Developing,71.5,normal
+1682,Mauritius,Developing,71.0,normal
+1683,Mexico,Developing,76.7,long
+1684,Mexico,Developing,76.6,long
+1685,Mexico,Developing,76.6,long
+1686,Mexico,Developing,76.3,long
+1687,Mexico,Developing,76.1,long
+1688,Mexico,Developing,75.6,normal
+1689,Mexico,Developing,75.7,normal
+1690,Mexico,Developing,75.6,normal
+1691,Mexico,Developing,76.0,long
+1692,Mexico,Developing,75.8,long
+1693,Mexico,Developing,75.3,normal
+1694,Mexico,Developing,75.4,normal
+1695,Mexico,Developing,75.0,normal
+1696,Mexico,Developing,75.0,normal
+1697,Mexico,Developing,75.0,normal
+1698,Mexico,Developing,74.8,normal
+1699,Micronesia (Federated States of),Developing,69.4,normal
+1700,Micronesia (Federated States of),Developing,69.4,normal
+1701,Micronesia (Federated States of),Developing,69.2,normal
+1702,Micronesia (Federated States of),Developing,69.0,normal
+1703,Micronesia (Federated States of),Developing,68.9,normal
+1704,Micronesia (Federated States of),Developing,68.7,normal
+1705,Micronesia (Federated States of),Developing,68.5,normal
+1706,Micronesia (Federated States of),Developing,68.4,normal
+1707,Micronesia (Federated States of),Developing,68.2,normal
+1708,Micronesia (Federated States of),Developing,68.0,normal
+1709,Micronesia (Federated States of),Developing,67.9,normal
+1710,Micronesia (Federated States of),Developing,67.7,normal
+1711,Micronesia (Federated States of),Developing,67.5,normal
+1712,Micronesia (Federated States of),Developing,66.2,normal
+1713,Micronesia (Federated States of),Developing,67.2,normal
+1714,Micronesia (Federated States of),Developing,67.0,normal
+1715,Monaco,Developing,,long
+1716,Mongolia,Developing,68.8,normal
+1717,Mongolia,Developing,68.4,normal
+1718,Mongolia,Developing,68.1,normal
+1719,Mongolia,Developing,67.8,normal
+1720,Mongolia,Developing,67.3,normal
+1721,Mongolia,Developing,66.3,normal
+1722,Mongolia,Developing,66.9,normal
+1723,Mongolia,Developing,67.4,normal
+1724,Mongolia,Developing,65.9,normal
+1725,Mongolia,Developing,65.0,normal
+1726,Mongolia,Developing,64.5,normal
+1727,Mongolia,Developing,64.0,normal
+1728,Mongolia,Developing,64.0,normal
+1729,Mongolia,Developing,63.8,normal
+1730,Mongolia,Developing,63.2,normal
+1731,Mongolia,Developing,62.8,normal
+1732,Montenegro,Developing,76.1,long
+1733,Montenegro,Developing,75.9,long
+1734,Montenegro,Developing,75.8,long
+1735,Montenegro,Developing,75.6,normal
+1736,Montenegro,Developing,75.4,normal
+1737,Montenegro,Developing,75.3,normal
+1738,Montenegro,Developing,75.0,normal
+1739,Montenegro,Developing,74.6,normal
+1740,Montenegro,Developing,74.2,normal
+1741,Montenegro,Developing,73.8,normal
+1742,Montenegro,Developing,73.6,normal
+1743,Montenegro,Developing,73.5,normal
+1744,Montenegro,Developing,73.5,normal
+1745,Montenegro,Developing,73.4,normal
+1746,Montenegro,Developing,73.3,normal
+1747,Montenegro,Developing,73.0,normal
+1748,Morocco,Developing,74.3,normal
+1749,Morocco,Developing,74.1,normal
+1750,Morocco,Developing,73.9,normal
+1751,Morocco,Developing,73.6,normal
+1752,Morocco,Developing,73.3,normal
+1753,Morocco,Developing,72.8,normal
+1754,Morocco,Developing,72.3,normal
+1755,Morocco,Developing,71.8,normal
+1756,Morocco,Developing,71.4,normal
+1757,Morocco,Developing,71.0,normal
+1758,Morocco,Developing,77.0,long
+1759,Morocco,Developing,72.0,normal
+1760,Morocco,Developing,69.9,normal
+1761,Morocco,Developing,69.5,normal
+1762,Morocco,Developing,69.0,normal
+1763,Morocco,Developing,68.6,normal
+1764,Mozambique,Developing,57.6,short
+1765,Mozambique,Developing,56.7,short
+1766,Mozambique,Developing,55.3,short
+1767,Mozambique,Developing,54.8,short
+1768,Mozambique,Developing,54.3,short
+1769,Mozambique,Developing,54.0,short
+1770,Mozambique,Developing,53.8,short
+1771,Mozambique,Developing,53.2,short
+1772,Mozambique,Developing,52.1,short
+1773,Mozambique,Developing,51.2,short
+1774,Mozambique,Developing,58.0,short
+1775,Mozambique,Developing,54.0,short
+1776,Mozambique,Developing,51.0,short
+1777,Mozambique,Developing,49.8,short
+1778,Mozambique,Developing,49.5,short
+1779,Mozambique,Developing,49.0,short
+1780,Myanmar,Developing,66.6,normal
+1781,Myanmar,Developing,66.4,normal
+1782,Myanmar,Developing,66.2,normal
+1783,Myanmar,Developing,65.9,normal
+1784,Myanmar,Developing,65.6,normal
+1785,Myanmar,Developing,65.4,normal
+1786,Myanmar,Developing,65.2,normal
+1787,Myanmar,Developing,59.2,normal
+1788,Myanmar,Developing,64.5,normal
+1789,Myanmar,Developing,64.2,normal
+1790,Myanmar,Developing,63.9,normal
+1791,Myanmar,Developing,63.5,normal
+1792,Myanmar,Developing,63.2,normal
+1793,Myanmar,Developing,62.8,normal
+1794,Myanmar,Developing,62.5,normal
+1795,Myanmar,Developing,62.1,normal
+1796,Namibia,Developing,65.8,normal
+1797,Namibia,Developing,65.9,normal
+1798,Namibia,Developing,66.1,normal
+1799,Namibia,Developing,65.8,normal
+1800,Namibia,Developing,64.3,normal
+1801,Namibia,Developing,63.0,normal
+1802,Namibia,Developing,62.4,normal
+1803,Namibia,Developing,61.7,normal
+1804,Namibia,Developing,60.0,normal
+1805,Namibia,Developing,57.0,short
+1806,Namibia,Developing,55.1,short
+1807,Namibia,Developing,54.7,short
+1808,Namibia,Developing,55.0,short
+1809,Namibia,Developing,55.7,short
+1810,Namibia,Developing,56.5,short
+1811,Namibia,Developing,57.4,short
+1812,Nauru,Developing,,long
+1813,Nepal,Developing,69.2,normal
+1814,Nepal,Developing,69.6,normal
+1815,Nepal,Developing,69.3,normal
+1816,Nepal,Developing,68.9,normal
+1817,Nepal,Developing,68.4,normal
+1818,Nepal,Developing,68.0,normal
+1819,Nepal,Developing,67.5,normal
+1820,Nepal,Developing,67.0,normal
+1821,Nepal,Developing,66.6,normal
+1822,Nepal,Developing,66.0,normal
+1823,Nepal,Developing,65.4,normal
+1824,Nepal,Developing,64.7,normal
+1825,Nepal,Developing,64.3,normal
+1826,Nepal,Developing,63.1,normal
+1827,Nepal,Developing,63.2,normal
+1828,Nepal,Developing,62.5,normal
+1829,Netherlands,Developed,81.9,normal
+1830,Netherlands,Developed,81.7,normal
+1831,Netherlands,Developed,81.4,normal
+1832,Netherlands,Developed,81.1,normal
+1833,Netherlands,Developed,81.1,normal
+1834,Netherlands,Developed,88.0,long
+1835,Netherlands,Developed,86.0,long
+1836,Netherlands,Developed,83.0,long
+1837,Netherlands,Developed,82.0,normal
+1838,Netherlands,Developed,79.8,normal
+1839,Netherlands,Developed,79.4,normal
+1840,Netherlands,Developed,79.2,normal
+1841,Netherlands,Developed,78.7,normal
+1842,Netherlands,Developed,78.4,normal
+1843,Netherlands,Developed,78.3,normal
+1844,Netherlands,Developed,78.1,normal
+1845,New Zealand,Developed,81.6,normal
+1846,New Zealand,Developed,81.5,normal
+1847,New Zealand,Developed,81.3,normal
+1848,New Zealand,Developed,81.1,normal
+1849,New Zealand,Developed,86.0,long
+1850,New Zealand,Developed,89.0,long
+1851,New Zealand,Developed,85.0,long
+1852,New Zealand,Developed,81.0,normal
+1853,New Zealand,Developed,81.0,normal
+1854,New Zealand,Developed,79.9,normal
+1855,New Zealand,Developed,79.9,normal
+1856,New Zealand,Developed,79.2,normal
+1857,New Zealand,Developed,79.1,normal
+1858,New Zealand,Developed,78.7,normal
+1859,New Zealand,Developed,78.5,normal
+1860,New Zealand,Developed,78.6,normal
+1861,Nicaragua,Developing,74.8,normal
+1862,Nicaragua,Developing,74.5,normal
+1863,Nicaragua,Developing,73.9,normal
+1864,Nicaragua,Developing,73.9,normal
+1865,Nicaragua,Developing,74.5,normal
+1866,Nicaragua,Developing,73.2,normal
+1867,Nicaragua,Developing,73.2,normal
+1868,Nicaragua,Developing,72.5,normal
+1869,Nicaragua,Developing,72.5,normal
+1870,Nicaragua,Developing,73.0,normal
+1871,Nicaragua,Developing,71.2,normal
+1872,Nicaragua,Developing,71.0,normal
+1873,Nicaragua,Developing,76.0,long
+1874,Nicaragua,Developing,75.0,normal
+1875,Nicaragua,Developing,73.0,normal
+1876,Nicaragua,Developing,73.0,normal
+1877,Niger,Developing,61.8,normal
+1878,Niger,Developing,61.4,normal
+1879,Niger,Developing,69.0,normal
+1880,Niger,Developing,63.0,normal
+1881,Niger,Developing,59.4,normal
+1882,Niger,Developing,58.2,short
+1883,Niger,Developing,57.1,short
+1884,Niger,Developing,56.0,short
+1885,Niger,Developing,55.2,short
+1886,Niger,Developing,54.5,short
+1887,Niger,Developing,53.7,short
+1888,Niger,Developing,52.9,short
+1889,Niger,Developing,52.1,short
+1890,Niger,Developing,51.4,short
+1891,Niger,Developing,56.0,short
+1892,Niger,Developing,50.0,short
+1893,Nigeria,Developing,54.5,short
+1894,Nigeria,Developing,53.6,short
+1895,Nigeria,Developing,53.2,short
+1896,Nigeria,Developing,52.7,short
+1897,Nigeria,Developing,52.3,short
+1898,Nigeria,Developing,52.0,short
+1899,Nigeria,Developing,51.6,short
+1900,Nigeria,Developing,59.0,normal
+1901,Nigeria,Developing,55.0,short
+1902,Nigeria,Developing,49.8,short
+1903,Nigeria,Developing,49.2,short
+1904,Nigeria,Developing,48.5,short
+1905,Nigeria,Developing,48.1,short
+1906,Nigeria,Developing,47.7,short
+1907,Nigeria,Developing,47.4,short
+1908,Nigeria,Developing,47.1,short
+1909,Niue,Developing,,long
+1910,Norway,Developed,81.8,normal
+1911,Norway,Developed,81.6,normal
+1912,Norway,Developed,81.5,normal
+1913,Norway,Developed,81.3,normal
+1914,Norway,Developed,81.1,normal
+1915,Norway,Developed,81.0,normal
+1916,Norway,Developed,89.0,long
+1917,Norway,Developed,86.0,long
+1918,Norway,Developed,85.0,long
+1919,Norway,Developed,84.0,long
+1920,Norway,Developed,81.0,normal
+1921,Norway,Developed,79.8,normal
+1922,Norway,Developed,79.4,normal
+1923,Norway,Developed,78.9,normal
+1924,Norway,Developed,78.8,normal
+1925,Norway,Developed,78.5,normal
+1926,Oman,Developing,76.6,long
+1927,Oman,Developing,76.4,long
+1928,Oman,Developing,76.2,long
+1929,Oman,Developing,76.0,long
+1930,Oman,Developing,75.8,long
+1931,Oman,Developing,75.6,normal
+1932,Oman,Developing,75.4,normal
+1933,Oman,Developing,75.2,normal
+1934,Oman,Developing,74.9,normal
+1935,Oman,Developing,74.7,normal
+1936,Oman,Developing,74.3,normal
+1937,Oman,Developing,74.0,normal
+1938,Oman,Developing,73.6,normal
+1939,Oman,Developing,73.3,normal
+1940,Oman,Developing,72.9,normal
+1941,Oman,Developing,72.6,normal
+1942,Pakistan,Developing,66.4,normal
+1943,Pakistan,Developing,66.2,normal
+1944,Pakistan,Developing,66.0,normal
+1945,Pakistan,Developing,65.7,normal
+1946,Pakistan,Developing,65.5,normal
+1947,Pakistan,Developing,65.1,normal
+1948,Pakistan,Developing,64.8,normal
+1949,Pakistan,Developing,64.6,normal
+1950,Pakistan,Developing,64.4,normal
+1951,Pakistan,Developing,64.2,normal
+1952,Pakistan,Developing,62.9,normal
+1953,Pakistan,Developing,63.7,normal
+1954,Pakistan,Developing,63.5,normal
+1955,Pakistan,Developing,63.2,normal
+1956,Pakistan,Developing,63.0,normal
+1957,Pakistan,Developing,62.8,normal
+1958,Palau,Developing,,long
+1959,Panama,Developing,77.8,long
+1960,Panama,Developing,77.6,long
+1961,Panama,Developing,77.5,long
+1962,Panama,Developing,77.2,long
+1963,Panama,Developing,77.3,long
+1964,Panama,Developing,76.5,long
+1965,Panama,Developing,76.8,long
+1966,Panama,Developing,76.5,long
+1967,Panama,Developing,76.4,long
+1968,Panama,Developing,76.2,long
+1969,Panama,Developing,75.8,long
+1970,Panama,Developing,75.8,long
+1971,Panama,Developing,75.5,normal
+1972,Panama,Developing,75.7,normal
+1973,Panama,Developing,75.5,normal
+1974,Panama,Developing,75.7,normal
+1975,Papua New Guinea,Developing,62.9,normal
+1976,Papua New Guinea,Developing,62.7,normal
+1977,Papua New Guinea,Developing,62.4,normal
+1978,Papua New Guinea,Developing,62.2,normal
+1979,Papua New Guinea,Developing,62.0,normal
+1980,Papua New Guinea,Developing,61.8,normal
+1981,Papua New Guinea,Developing,61.6,normal
+1982,Papua New Guinea,Developing,61.4,normal
+1983,Papua New Guinea,Developing,61.1,normal
+1984,Papua New Guinea,Developing,68.0,normal
+1985,Papua New Guinea,Developing,64.0,normal
+1986,Papua New Guinea,Developing,59.9,normal
+1987,Papua New Guinea,Developing,59.6,normal
+1988,Papua New Guinea,Developing,59.3,normal
+1989,Papua New Guinea,Developing,59.1,normal
+1990,Papua New Guinea,Developing,58.9,normal
+1991,Paraguay,Developing,74.0,normal
+1992,Paraguay,Developing,73.9,normal
+1993,Paraguay,Developing,73.8,normal
+1994,Paraguay,Developing,73.6,normal
+1995,Paraguay,Developing,73.4,normal
+1996,Paraguay,Developing,73.2,normal
+1997,Paraguay,Developing,73.0,normal
+1998,Paraguay,Developing,72.7,normal
+1999,Paraguay,Developing,72.5,normal
+2000,Paraguay,Developing,72.3,normal
+2001,Paraguay,Developing,72.1,normal
+2002,Paraguay,Developing,71.9,normal
+2003,Paraguay,Developing,71.7,normal
+2004,Paraguay,Developing,71.5,normal
+2005,Paraguay,Developing,71.2,normal
+2006,Paraguay,Developing,79.0,long
+2007,Peru,Developing,75.5,normal
+2008,Peru,Developing,75.3,normal
+2009,Peru,Developing,75.3,normal
+2010,Peru,Developing,74.9,normal
+2011,Peru,Developing,74.5,normal
+2012,Peru,Developing,73.7,normal
+2013,Peru,Developing,73.8,normal
+2014,Peru,Developing,73.9,normal
+2015,Peru,Developing,74.0,normal
+2016,Peru,Developing,74.2,normal
+2017,Peru,Developing,72.8,normal
+2018,Peru,Developing,72.2,normal
+2019,Peru,Developing,72.1,normal
+2020,Peru,Developing,72.6,normal
+2021,Peru,Developing,72.4,normal
+2022,Peru,Developing,71.4,normal
+2023,Philippines,Developing,68.5,normal
+2024,Philippines,Developing,68.4,normal
+2025,Philippines,Developing,68.1,normal
+2026,Philippines,Developing,68.1,normal
+2027,Philippines,Developing,68.0,normal
+2028,Philippines,Developing,67.9,normal
+2029,Philippines,Developing,68.0,normal
+2030,Philippines,Developing,67.5,normal
+2031,Philippines,Developing,67.5,normal
+2032,Philippines,Developing,67.3,normal
+2033,Philippines,Developing,67.0,normal
+2034,Philippines,Developing,67.3,normal
+2035,Philippines,Developing,67.2,normal
+2036,Philippines,Developing,66.8,normal
+2037,Philippines,Developing,66.8,normal
+2038,Philippines,Developing,66.8,normal
+2039,Poland,Developed,77.5,normal
+2040,Poland,Developed,77.3,normal
+2041,Poland,Developed,77.1,normal
+2042,Poland,Developed,76.8,normal
+2043,Poland,Developed,76.7,normal
+2044,Poland,Developed,76.3,normal
+2045,Poland,Developed,75.7,short
+2046,Poland,Developed,75.5,short
+2047,Poland,Developed,75.3,short
+2048,Poland,Developed,75.2,short
+2049,Poland,Developed,75.0,short
+2050,Poland,Developed,74.9,short
+2051,Poland,Developed,74.7,short
+2052,Poland,Developed,74.5,short
+2053,Poland,Developed,74.2,short
+2054,Poland,Developed,73.7,short
+2055,Portugal,Developed,81.1,normal
+2056,Portugal,Developed,89.0,long
+2057,Portugal,Developed,86.0,long
+2058,Portugal,Developed,83.0,long
+2059,Portugal,Developed,82.0,normal
+2060,Portugal,Developed,79.6,normal
+2061,Portugal,Developed,79.3,normal
+2062,Portugal,Developed,79.0,normal
+2063,Portugal,Developed,78.7,normal
+2064,Portugal,Developed,78.5,normal
+2065,Portugal,Developed,77.7,normal
+2066,Portugal,Developed,78.0,normal
+2067,Portugal,Developed,77.3,normal
+2068,Portugal,Developed,77.2,normal
+2069,Portugal,Developed,76.9,normal
+2070,Portugal,Developed,76.6,normal
+2071,Qatar,Developing,78.2,long
+2072,Qatar,Developing,78.1,long
+2073,Qatar,Developing,77.9,long
+2074,Qatar,Developing,77.8,long
+2075,Qatar,Developing,77.5,long
+2076,Qatar,Developing,77.3,long
+2077,Qatar,Developing,77.0,long
+2078,Qatar,Developing,76.8,long
+2079,Qatar,Developing,76.7,long
+2080,Qatar,Developing,76.6,long
+2081,Qatar,Developing,76.6,long
+2082,Qatar,Developing,76.6,long
+2083,Qatar,Developing,76.5,long
+2084,Qatar,Developing,76.4,long
+2085,Qatar,Developing,76.3,long
+2086,Qatar,Developing,76.2,long
+2087,Republic of Korea,Developing,82.3,long
+2088,Republic of Korea,Developing,82.0,long
+2089,Republic of Korea,Developing,81.7,long
+2090,Republic of Korea,Developing,81.2,long
+2091,Republic of Korea,Developing,81.1,long
+2092,Republic of Korea,Developing,87.0,long
+2093,Republic of Korea,Developing,86.0,long
+2094,Republic of Korea,Developing,83.0,long
+2095,Republic of Korea,Developing,79.8,long
+2096,Republic of Korea,Developing,79.4,long
+2097,Republic of Korea,Developing,78.7,long
+2098,Republic of Korea,Developing,78.2,long
+2099,Republic of Korea,Developing,77.6,long
+2100,Republic of Korea,Developing,77.1,long
+2101,Republic of Korea,Developing,76.7,long
+2102,Republic of Korea,Developing,76.0,long
+2103,Republic of Moldova,Developing,72.1,normal
+2104,Republic of Moldova,Developing,71.8,normal
+2105,Republic of Moldova,Developing,71.7,normal
+2106,Republic of Moldova,Developing,79.0,long
+2107,Republic of Moldova,Developing,77.0,long
+2108,Republic of Moldova,Developing,68.8,normal
+2109,Republic of Moldova,Developing,69.0,normal
+2110,Republic of Moldova,Developing,68.9,normal
+2111,Republic of Moldova,Developing,68.3,normal
+2112,Republic of Moldova,Developing,68.0,normal
+2113,Republic of Moldova,Developing,67.3,normal
+2114,Republic of Moldova,Developing,68.0,normal
+2115,Republic of Moldova,Developing,67.6,normal
+2116,Republic of Moldova,Developing,67.5,normal
+2117,Republic of Moldova,Developing,67.6,normal
+2118,Republic of Moldova,Developing,67.1,normal
+2119,Romania,Developed,75.0,short
+2120,Romania,Developed,74.8,short
+2121,Romania,Developed,74.6,short
+2122,Romania,Developed,74.4,short
+2123,Romania,Developed,74.3,short
+2124,Romania,Developed,73.4,short
+2125,Romania,Developed,73.1,short
+2126,Romania,Developed,73.1,short
+2127,Romania,Developed,72.9,short
+2128,Romania,Developed,72.5,short
+2129,Romania,Developed,71.9,short
+2130,Romania,Developed,71.7,short
+2131,Romania,Developed,71.1,short
+2132,Romania,Developed,77.0,normal
+2133,Romania,Developed,78.0,normal
+2134,Romania,Developed,77.0,normal
+2135,Russian Federation,Developing,75.0,normal
+2136,Russian Federation,Developing,73.0,normal
+2137,Russian Federation,Developing,70.0,normal
+2138,Russian Federation,Developing,69.6,normal
+2139,Russian Federation,Developing,69.4,normal
+2140,Russian Federation,Developing,68.4,normal
+2141,Russian Federation,Developing,68.2,normal
+2142,Russian Federation,Developing,67.5,normal
+2143,Russian Federation,Developing,67.3,normal
+2144,Russian Federation,Developing,66.4,normal
+2145,Russian Federation,Developing,65.0,normal
+2146,Russian Federation,Developing,64.9,normal
+2147,Russian Federation,Developing,64.6,normal
+2148,Russian Federation,Developing,64.8,normal
+2149,Russian Federation,Developing,65.1,normal
+2150,Russian Federation,Developing,65.0,normal
+2151,Rwanda,Developing,66.1,normal
+2152,Rwanda,Developing,65.7,normal
+2153,Rwanda,Developing,65.2,normal
+2154,Rwanda,Developing,64.6,normal
+2155,Rwanda,Developing,63.8,normal
+2156,Rwanda,Developing,62.8,normal
+2157,Rwanda,Developing,61.0,normal
+2158,Rwanda,Developing,68.0,normal
+2159,Rwanda,Developing,59.6,normal
+2160,Rwanda,Developing,57.6,short
+2161,Rwanda,Developing,55.3,short
+2162,Rwanda,Developing,53.4,short
+2163,Rwanda,Developing,52.0,short
+2164,Rwanda,Developing,57.0,short
+2165,Rwanda,Developing,48.6,short
+2166,Rwanda,Developing,48.3,short
+2167,Saint Kitts and Nevis,Developing,,long
+2168,Saint Lucia,Developing,75.2,normal
+2169,Saint Lucia,Developing,75.0,normal
+2170,Saint Lucia,Developing,74.8,normal
+2171,Saint Lucia,Developing,74.7,normal
+2172,Saint Lucia,Developing,74.6,normal
+2173,Saint Lucia,Developing,74.2,normal
+2174,Saint Lucia,Developing,74.3,normal
+2175,Saint Lucia,Developing,74.1,normal
+2176,Saint Lucia,Developing,73.9,normal
+2177,Saint Lucia,Developing,73.5,normal
+2178,Saint Lucia,Developing,73.1,normal
+2179,Saint Lucia,Developing,72.6,normal
+2180,Saint Lucia,Developing,72.2,normal
+2181,Saint Lucia,Developing,72.0,normal
+2182,Saint Lucia,Developing,71.8,normal
+2183,Saint Lucia,Developing,71.6,normal
+2184,Saint Vincent and the Grenadines,Developing,73.2,normal
+2185,Saint Vincent and the Grenadines,Developing,73.1,normal
+2186,Saint Vincent and the Grenadines,Developing,72.7,normal
+2187,Saint Vincent and the Grenadines,Developing,72.8,normal
+2188,Saint Vincent and the Grenadines,Developing,72.7,normal
+2189,Saint Vincent and the Grenadines,Developing,72.5,normal
+2190,Saint Vincent and the Grenadines,Developing,72.3,normal
+2191,Saint Vincent and the Grenadines,Developing,72.1,normal
+2192,Saint Vincent and the Grenadines,Developing,71.9,normal
+2193,Saint Vincent and the Grenadines,Developing,71.7,normal
+2194,Saint Vincent and the Grenadines,Developing,71.4,normal
+2195,Saint Vincent and the Grenadines,Developing,71.2,normal
+2196,Saint Vincent and the Grenadines,Developing,71.0,normal
+2197,Saint Vincent and the Grenadines,Developing,79.0,long
+2198,Saint Vincent and the Grenadines,Developing,79.0,long
+2199,Saint Vincent and the Grenadines,Developing,79.0,long
+2200,Samoa,Developing,74.0,normal
+2201,Samoa,Developing,73.8,normal
+2202,Samoa,Developing,73.6,normal
+2203,Samoa,Developing,73.2,normal
+2204,Samoa,Developing,73.0,normal
+2205,Samoa,Developing,72.6,normal
+2206,Samoa,Developing,76.0,long
+2207,Samoa,Developing,72.5,normal
+2208,Samoa,Developing,72.2,normal
+2209,Samoa,Developing,72.0,normal
+2210,Samoa,Developing,71.6,normal
+2211,Samoa,Developing,71.4,normal
+2212,Samoa,Developing,79.0,long
+2213,Samoa,Developing,76.0,long
+2214,Samoa,Developing,75.0,normal
+2215,Samoa,Developing,72.0,normal
+2216,San Marino,Developing,,long
+2217,Sao Tome and Principe,Developing,67.5,normal
+2218,Sao Tome and Principe,Developing,67.3,normal
+2219,Sao Tome and Principe,Developing,67.1,normal
+2220,Sao Tome and Principe,Developing,66.9,normal
+2221,Sao Tome and Principe,Developing,66.6,normal
+2222,Sao Tome and Principe,Developing,66.2,normal
+2223,Sao Tome and Principe,Developing,65.8,normal
+2224,Sao Tome and Principe,Developing,65.4,normal
+2225,Sao Tome and Principe,Developing,65.1,normal
+2226,Sao Tome and Principe,Developing,64.7,normal
+2227,Sao Tome and Principe,Developing,64.3,normal
+2228,Sao Tome and Principe,Developing,63.8,normal
+2229,Sao Tome and Principe,Developing,63.4,normal
+2230,Sao Tome and Principe,Developing,63.1,normal
+2231,Sao Tome and Principe,Developing,62.8,normal
+2232,Sao Tome and Principe,Developing,62.6,normal
+2233,Saudi Arabia,Developing,74.5,normal
+2234,Saudi Arabia,Developing,74.4,normal
+2235,Saudi Arabia,Developing,74.3,normal
+2236,Saudi Arabia,Developing,74.1,normal
+2237,Saudi Arabia,Developing,73.9,normal
+2238,Saudi Arabia,Developing,73.7,normal
+2239,Saudi Arabia,Developing,73.4,normal
+2240,Saudi Arabia,Developing,73.3,normal
+2241,Saudi Arabia,Developing,73.2,normal
+2242,Saudi Arabia,Developing,73.2,normal
+2243,Saudi Arabia,Developing,73.1,normal
+2244,Saudi Arabia,Developing,73.1,normal
+2245,Saudi Arabia,Developing,73.0,normal
+2246,Saudi Arabia,Developing,72.9,normal
+2247,Saudi Arabia,Developing,72.8,normal
+2248,Saudi Arabia,Developing,72.6,normal
+2249,Senegal,Developing,66.7,normal
+2250,Senegal,Developing,66.4,normal
+2251,Senegal,Developing,66.0,normal
+2252,Senegal,Developing,65.6,normal
+2253,Senegal,Developing,64.9,normal
+2254,Senegal,Developing,64.3,normal
+2255,Senegal,Developing,63.5,normal
+2256,Senegal,Developing,62.8,normal
+2257,Senegal,Developing,62.1,normal
+2258,Senegal,Developing,61.3,normal
+2259,Senegal,Developing,65.0,normal
+2260,Senegal,Developing,59.7,normal
+2261,Senegal,Developing,59.0,normal
+2262,Senegal,Developing,58.4,short
+2263,Senegal,Developing,57.9,short
+2264,Senegal,Developing,57.5,short
+2265,Serbia,Developing,75.6,normal
+2266,Serbia,Developing,75.4,normal
+2267,Serbia,Developing,75.3,normal
+2268,Serbia,Developing,74.9,normal
+2269,Serbia,Developing,74.6,normal
+2270,Serbia,Developing,74.4,normal
+2271,Serbia,Developing,74.1,normal
+2272,Serbia,Developing,74.0,normal
+2273,Serbia,Developing,73.8,normal
+2274,Serbia,Developing,73.6,normal
+2275,Serbia,Developing,73.0,normal
+2276,Serbia,Developing,73.0,normal
+2277,Serbia,Developing,73.0,normal
+2278,Serbia,Developing,72.9,normal
+2279,Serbia,Developing,73.1,normal
+2280,Serbia,Developing,72.6,normal
+2281,Seychelles,Developing,73.2,normal
+2282,Seychelles,Developing,73.0,normal
+2283,Seychelles,Developing,72.9,normal
+2284,Seychelles,Developing,72.7,normal
+2285,Seychelles,Developing,72.6,normal
+2286,Seychelles,Developing,72.4,normal
+2287,Seychelles,Developing,72.3,normal
+2288,Seychelles,Developing,72.2,normal
+2289,Seychelles,Developing,72.2,normal
+2290,Seychelles,Developing,72.2,normal
+2291,Seychelles,Developing,72.2,normal
+2292,Seychelles,Developing,72.1,normal
+2293,Seychelles,Developing,72.1,normal
+2294,Seychelles,Developing,72.1,normal
+2295,Seychelles,Developing,72.0,normal
+2296,Seychelles,Developing,71.8,normal
+2297,Sierra Leone,Developing,51.0,short
+2298,Sierra Leone,Developing,48.1,short
+2299,Sierra Leone,Developing,54.0,short
+2300,Sierra Leone,Developing,49.7,short
+2301,Sierra Leone,Developing,48.9,short
+2302,Sierra Leone,Developing,48.1,short
+2303,Sierra Leone,Developing,47.1,short
+2304,Sierra Leone,Developing,46.2,short
+2305,Sierra Leone,Developing,45.3,short
+2306,Sierra Leone,Developing,44.3,short
+2307,Sierra Leone,Developing,43.3,short
+2308,Sierra Leone,Developing,42.3,short
+2309,Sierra Leone,Developing,41.5,short
+2310,Sierra Leone,Developing,48.0,short
+2311,Sierra Leone,Developing,41.0,short
+2312,Sierra Leone,Developing,39.0,short
+2313,Singapore,Developed,83.1,long
+2314,Singapore,Developed,82.9,long
+2315,Singapore,Developed,82.7,long
+2316,Singapore,Developed,82.5,long
+2317,Singapore,Developed,82.2,normal
+2318,Singapore,Developed,82.0,normal
+2319,Singapore,Developed,81.7,normal
+2320,Singapore,Developed,81.4,normal
+2321,Singapore,Developed,81.1,normal
+2322,Singapore,Developed,87.0,long
+2323,Singapore,Developed,82.0,normal
+2324,Singapore,Developed,79.7,normal
+2325,Singapore,Developed,79.3,normal
+2326,Singapore,Developed,79.0,normal
+2327,Singapore,Developed,78.7,normal
+2328,Singapore,Developed,78.3,normal
+2329,Slovakia,Developed,76.7,normal
+2330,Slovakia,Developed,76.4,normal
+2331,Slovakia,Developed,76.1,normal
+2332,Slovakia,Developed,75.8,short
+2333,Slovakia,Developed,75.6,short
+2334,Slovakia,Developed,75.1,short
+2335,Slovakia,Developed,75.0,short
+2336,Slovakia,Developed,74.7,short
+2337,Slovakia,Developed,74.4,short
+2338,Slovakia,Developed,74.3,short
+2339,Slovakia,Developed,74.0,short
+2340,Slovakia,Developed,74.1,short
+2341,Slovakia,Developed,73.8,short
+2342,Slovakia,Developed,73.7,short
+2343,Slovakia,Developed,73.3,short
+2344,Slovakia,Developed,73.0,short
+2345,Slovenia,Developed,88.0,long
+2346,Slovenia,Developed,87.0,long
+2347,Slovenia,Developed,85.0,long
+2348,Slovenia,Developed,82.0,normal
+2349,Slovenia,Developed,79.8,normal
+2350,Slovenia,Developed,79.5,normal
+2351,Slovenia,Developed,79.1,normal
+2352,Slovenia,Developed,78.9,normal
+2353,Slovenia,Developed,78.3,normal
+2354,Slovenia,Developed,78.1,normal
+2355,Slovenia,Developed,77.5,normal
+2356,Slovenia,Developed,77.2,normal
+2357,Slovenia,Developed,76.5,normal
+2358,Slovenia,Developed,76.6,normal
+2359,Slovenia,Developed,76.2,normal
+2360,Slovenia,Developed,76.0,normal
+2361,Solomon Islands,Developing,69.2,normal
+2362,Solomon Islands,Developing,68.8,normal
+2363,Solomon Islands,Developing,68.8,normal
+2364,Solomon Islands,Developing,68.7,normal
+2365,Solomon Islands,Developing,68.5,normal
+2366,Solomon Islands,Developing,68.3,normal
+2367,Solomon Islands,Developing,68.1,normal
+2368,Solomon Islands,Developing,68.0,normal
+2369,Solomon Islands,Developing,67.6,normal
+2370,Solomon Islands,Developing,67.6,normal
+2371,Solomon Islands,Developing,67.4,normal
+2372,Solomon Islands,Developing,67.1,normal
+2373,Solomon Islands,Developing,66.8,normal
+2374,Solomon Islands,Developing,66.5,normal
+2375,Solomon Islands,Developing,66.2,normal
+2376,Solomon Islands,Developing,65.8,normal
+2377,Somalia,Developing,55.0,short
+2378,Somalia,Developing,54.3,short
+2379,Somalia,Developing,54.2,short
+2380,Somalia,Developing,53.1,short
+2381,Somalia,Developing,53.1,short
+2382,Somalia,Developing,52.4,short
+2383,Somalia,Developing,52.2,short
+2384,Somalia,Developing,51.9,short
+2385,Somalia,Developing,51.5,short
+2386,Somalia,Developing,51.5,short
+2387,Somalia,Developing,51.6,short
+2388,Somalia,Developing,51.2,short
+2389,Somalia,Developing,51.1,short
+2390,Somalia,Developing,58.0,short
+2391,Somalia,Developing,57.0,short
+2392,Somalia,Developing,55.0,short
+2393,South Africa,Developing,62.9,normal
+2394,South Africa,Developing,62.0,normal
+2395,South Africa,Developing,69.0,normal
+2396,South Africa,Developing,59.2,normal
+2397,South Africa,Developing,58.9,normal
+2398,South Africa,Developing,58.0,short
+2399,South Africa,Developing,56.5,short
+2400,South Africa,Developing,55.3,short
+2401,South Africa,Developing,54.5,short
+2402,South Africa,Developing,54.0,short
+2403,South Africa,Developing,53.8,short
+2404,South Africa,Developing,53.7,short
+2405,South Africa,Developing,54.0,short
+2406,South Africa,Developing,54.9,short
+2407,South Africa,Developing,56.0,short
+2408,South Africa,Developing,57.3,short
+2409,South Sudan,Developing,57.3,short
+2410,South Sudan,Developing,56.6,short
+2411,South Sudan,Developing,56.4,short
+2412,South Sudan,Developing,56.0,short
+2413,South Sudan,Developing,55.4,short
+2414,South Sudan,Developing,55.0,short
+2415,South Sudan,Developing,54.3,short
+2416,South Sudan,Developing,53.6,short
+2417,South Sudan,Developing,53.1,short
+2418,South Sudan,Developing,52.5,short
+2419,South Sudan,Developing,51.9,short
+2420,South Sudan,Developing,51.4,short
+2421,South Sudan,Developing,58.0,short
+2422,South Sudan,Developing,52.0,short
+2423,South Sudan,Developing,49.6,short
+2424,South Sudan,Developing,48.9,short
+2425,Spain,Developed,82.8,long
+2426,Spain,Developed,82.6,long
+2427,Spain,Developed,82.4,normal
+2428,Spain,Developed,82.0,normal
+2429,Spain,Developed,82.1,normal
+2430,Spain,Developed,81.9,normal
+2431,Spain,Developed,81.6,normal
+2432,Spain,Developed,81.3,normal
+2433,Spain,Developed,89.0,long
+2434,Spain,Developed,88.0,long
+2435,Spain,Developed,81.0,normal
+2436,Spain,Developed,81.0,normal
+2437,Spain,Developed,79.4,normal
+2438,Spain,Developed,79.5,normal
+2439,Spain,Developed,79.4,normal
+2440,Spain,Developed,79.1,normal
+2441,Sri Lanka,Developing,74.9,normal
+2442,Sri Lanka,Developing,74.7,normal
+2443,Sri Lanka,Developing,74.6,normal
+2444,Sri Lanka,Developing,74.5,normal
+2445,Sri Lanka,Developing,74.5,normal
+2446,Sri Lanka,Developing,74.5,normal
+2447,Sri Lanka,Developing,71.8,normal
+2448,Sri Lanka,Developing,72.3,normal
+2449,Sri Lanka,Developing,73.7,normal
+2450,Sri Lanka,Developing,73.8,normal
+2451,Sri Lanka,Developing,74.2,normal
+2452,Sri Lanka,Developing,69.1,normal
+2453,Sri Lanka,Developing,73.9,normal
+2454,Sri Lanka,Developing,73.7,normal
+2455,Sri Lanka,Developing,72.7,normal
+2456,Sri Lanka,Developing,71.5,normal
+2457,Sudan,Developing,64.1,normal
+2458,Sudan,Developing,63.8,normal
+2459,Sudan,Developing,63.5,normal
+2460,Sudan,Developing,63.2,normal
+2461,Sudan,Developing,62.7,normal
+2462,Sudan,Developing,62.5,normal
+2463,Sudan,Developing,62.0,normal
+2464,Sudan,Developing,61.8,normal
+2465,Sudan,Developing,61.4,normal
+2466,Sudan,Developing,61.0,normal
+2467,Sudan,Developing,67.0,normal
+2468,Sudan,Developing,59.7,normal
+2469,Sudan,Developing,59.6,normal
+2470,Sudan,Developing,59.4,normal
+2471,Sudan,Developing,58.9,normal
+2472,Sudan,Developing,58.6,normal
+2473,Suriname,Developing,71.6,normal
+2474,Suriname,Developing,71.4,normal
+2475,Suriname,Developing,71.2,normal
+2476,Suriname,Developing,71.3,normal
+2477,Suriname,Developing,76.0,long
+2478,Suriname,Developing,73.0,normal
+2479,Suriname,Developing,70.0,normal
+2480,Suriname,Developing,69.8,normal
+2481,Suriname,Developing,69.5,normal
+2482,Suriname,Developing,69.3,normal
+2483,Suriname,Developing,68.9,normal
+2484,Suriname,Developing,68.3,normal
+2485,Suriname,Developing,68.0,normal
+2486,Suriname,Developing,67.9,normal
+2487,Suriname,Developing,67.7,normal
+2488,Suriname,Developing,67.4,normal
+2489,Swaziland,Developing,58.9,normal
+2490,Swaziland,Developing,58.4,short
+2491,Swaziland,Developing,57.6,short
+2492,Swaziland,Developing,56.5,short
+2493,Swaziland,Developing,55.0,short
+2494,Swaziland,Developing,53.6,short
+2495,Swaziland,Developing,52.6,short
+2496,Swaziland,Developing,51.4,short
+2497,Swaziland,Developing,50.0,short
+2498,Swaziland,Developing,47.8,short
+2499,Swaziland,Developing,46.0,short
+2500,Swaziland,Developing,45.6,short
+2501,Swaziland,Developing,45.9,short
+2502,Swaziland,Developing,46.4,short
+2503,Swaziland,Developing,47.1,short
+2504,Swaziland,Developing,48.4,short
+2505,Sweden,Developed,82.4,normal
+2506,Sweden,Developed,82.3,normal
+2507,Sweden,Developed,81.9,normal
+2508,Sweden,Developed,81.7,normal
+2509,Sweden,Developed,81.7,normal
+2510,Sweden,Developed,81.5,normal
+2511,Sweden,Developed,81.4,normal
+2512,Sweden,Developed,81.1,normal
+2513,Sweden,Developed,89.0,long
+2514,Sweden,Developed,88.0,long
+2515,Sweden,Developed,85.0,long
+2516,Sweden,Developed,83.0,long
+2517,Sweden,Developed,82.0,normal
+2518,Sweden,Developed,79.9,normal
+2519,Sweden,Developed,79.8,normal
+2520,Sweden,Developed,79.6,normal
+2521,Switzerland,Developed,83.4,long
+2522,Switzerland,Developed,83.2,long
+2523,Switzerland,Developed,83.0,long
+2524,Switzerland,Developed,82.7,long
+2525,Switzerland,Developed,82.6,long
+2526,Switzerland,Developed,82.3,normal
+2527,Switzerland,Developed,82.1,normal
+2528,Switzerland,Developed,82.0,normal
+2529,Switzerland,Developed,81.7,normal
+2530,Switzerland,Developed,81.5,normal
+2531,Switzerland,Developed,81.1,normal
+2532,Switzerland,Developed,81.0,normal
+2533,Switzerland,Developed,85.0,long
+2534,Switzerland,Developed,84.0,long
+2535,Switzerland,Developed,82.0,normal
+2536,Switzerland,Developed,79.7,normal
+2537,Syrian Arab Republic,Developing,64.5,normal
+2538,Syrian Arab Republic,Developing,64.4,normal
+2539,Syrian Arab Republic,Developing,63.6,normal
+2540,Syrian Arab Republic,Developing,62.8,normal
+2541,Syrian Arab Republic,Developing,71.7,normal
+2542,Syrian Arab Republic,Developing,73.7,normal
+2543,Syrian Arab Republic,Developing,73.8,normal
+2544,Syrian Arab Republic,Developing,73.8,normal
+2545,Syrian Arab Republic,Developing,73.8,normal
+2546,Syrian Arab Republic,Developing,73.7,normal
+2547,Syrian Arab Republic,Developing,73.5,normal
+2548,Syrian Arab Republic,Developing,73.2,normal
+2549,Syrian Arab Republic,Developing,73.0,normal
+2550,Syrian Arab Republic,Developing,72.8,normal
+2551,Syrian Arab Republic,Developing,72.7,normal
+2552,Syrian Arab Republic,Developing,72.6,normal
+2553,Tajikistan,Developing,69.7,normal
+2554,Tajikistan,Developing,69.6,normal
+2555,Tajikistan,Developing,69.3,normal
+2556,Tajikistan,Developing,68.8,normal
+2557,Tajikistan,Developing,68.1,normal
+2558,Tajikistan,Developing,67.3,normal
+2559,Tajikistan,Developing,66.7,normal
+2560,Tajikistan,Developing,66.4,normal
+2561,Tajikistan,Developing,66.1,normal
+2562,Tajikistan,Developing,65.9,normal
+2563,Tajikistan,Developing,65.5,normal
+2564,Tajikistan,Developing,65.9,normal
+2565,Tajikistan,Developing,65.2,normal
+2566,Tajikistan,Developing,64.3,normal
+2567,Tajikistan,Developing,64.0,normal
+2568,Tajikistan,Developing,63.7,normal
+2569,Thailand,Developing,74.9,normal
+2570,Thailand,Developing,74.6,normal
+2571,Thailand,Developing,74.5,normal
+2572,Thailand,Developing,74.3,normal
+2573,Thailand,Developing,74.1,normal
+2574,Thailand,Developing,73.9,normal
+2575,Thailand,Developing,73.7,normal
+2576,Thailand,Developing,73.5,normal
+2577,Thailand,Developing,73.3,normal
+2578,Thailand,Developing,73.0,normal
+2579,Thailand,Developing,72.5,normal
+2580,Thailand,Developing,71.6,normal
+2581,Thailand,Developing,71.7,normal
+2582,Thailand,Developing,71.4,normal
+2583,Thailand,Developing,71.2,normal
+2584,Thailand,Developing,71.1,normal
+2585,The former Yugoslav republic of Macedonia,Developing,75.7,normal
+2586,The former Yugoslav republic of Macedonia,Developing,75.5,normal
+2587,The former Yugoslav republic of Macedonia,Developing,75.3,normal
+2588,The former Yugoslav republic of Macedonia,Developing,75.1,normal
+2589,The former Yugoslav republic of Macedonia,Developing,74.9,normal
+2590,The former Yugoslav republic of Macedonia,Developing,74.7,normal
+2591,The former Yugoslav republic of Macedonia,Developing,74.4,normal
+2592,The former Yugoslav republic of Macedonia,Developing,74.2,normal
+2593,The former Yugoslav republic of Macedonia,Developing,73.5,normal
+2594,The former Yugoslav republic of Macedonia,Developing,73.7,normal
+2595,The former Yugoslav republic of Macedonia,Developing,73.6,normal
+2596,The former Yugoslav republic of Macedonia,Developing,73.5,normal
+2597,The former Yugoslav republic of Macedonia,Developing,73.2,normal
+2598,The former Yugoslav republic of Macedonia,Developing,72.8,normal
+2599,The former Yugoslav republic of Macedonia,Developing,73.1,normal
+2600,The former Yugoslav republic of Macedonia,Developing,72.6,normal
+2601,Timor-Leste,Developing,68.3,normal
+2602,Timor-Leste,Developing,68.0,normal
+2603,Timor-Leste,Developing,67.7,normal
+2604,Timor-Leste,Developing,67.4,normal
+2605,Timor-Leste,Developing,67.2,normal
+2606,Timor-Leste,Developing,66.9,normal
+2607,Timor-Leste,Developing,66.6,normal
+2608,Timor-Leste,Developing,66.2,normal
+2609,Timor-Leste,Developing,65.8,normal
+2610,Timor-Leste,Developing,64.9,normal
+2611,Timor-Leste,Developing,63.7,normal
+2612,Timor-Leste,Developing,62.3,normal
+2613,Timor-Leste,Developing,61.0,normal
+2614,Timor-Leste,Developing,62.0,normal
+2615,Timor-Leste,Developing,59.4,normal
+2616,Timor-Leste,Developing,58.7,normal
+2617,Togo,Developing,59.9,normal
+2618,Togo,Developing,59.7,normal
+2619,Togo,Developing,59.4,normal
+2620,Togo,Developing,58.9,normal
+2621,Togo,Developing,58.3,short
+2622,Togo,Developing,57.4,short
+2623,Togo,Developing,56.7,short
+2624,Togo,Developing,56.2,short
+2625,Togo,Developing,55.9,short
+2626,Togo,Developing,55.7,short
+2627,Togo,Developing,55.0,short
+2628,Togo,Developing,54.9,short
+2629,Togo,Developing,54.7,short
+2630,Togo,Developing,54.7,short
+2631,Togo,Developing,54.6,short
+2632,Togo,Developing,54.6,short
+2633,Tonga,Developing,73.5,normal
+2634,Tonga,Developing,73.3,normal
+2635,Tonga,Developing,73.2,normal
+2636,Tonga,Developing,73.0,normal
+2637,Tonga,Developing,72.9,normal
+2638,Tonga,Developing,72.8,normal
+2639,Tonga,Developing,72.5,normal
+2640,Tonga,Developing,72.6,normal
+2641,Tonga,Developing,72.5,normal
+2642,Tonga,Developing,72.4,normal
+2643,Tonga,Developing,72.3,normal
+2644,Tonga,Developing,72.2,normal
+2645,Tonga,Developing,72.0,normal
+2646,Tonga,Developing,71.9,normal
+2647,Tonga,Developing,71.8,normal
+2648,Tonga,Developing,71.6,normal
+2649,Trinidad and Tobago,Developing,71.2,normal
+2650,Trinidad and Tobago,Developing,71.1,normal
+2651,Trinidad and Tobago,Developing,71.0,normal
+2652,Trinidad and Tobago,Developing,78.0,long
+2653,Trinidad and Tobago,Developing,76.0,long
+2654,Trinidad and Tobago,Developing,74.0,normal
+2655,Trinidad and Tobago,Developing,71.0,normal
+2656,Trinidad and Tobago,Developing,69.9,normal
+2657,Trinidad and Tobago,Developing,69.7,normal
+2658,Trinidad and Tobago,Developing,69.6,normal
+2659,Trinidad and Tobago,Developing,69.5,normal
+2660,Trinidad and Tobago,Developing,69.4,normal
+2661,Trinidad and Tobago,Developing,69.3,normal
+2662,Trinidad and Tobago,Developing,69.2,normal
+2663,Trinidad and Tobago,Developing,69.1,normal
+2664,Trinidad and Tobago,Developing,69.1,normal
+2665,Tunisia,Developing,75.3,normal
+2666,Tunisia,Developing,75.1,normal
+2667,Tunisia,Developing,74.9,normal
+2668,Tunisia,Developing,74.9,normal
+2669,Tunisia,Developing,74.8,normal
+2670,Tunisia,Developing,74.8,normal
+2671,Tunisia,Developing,74.7,normal
+2672,Tunisia,Developing,74.7,normal
+2673,Tunisia,Developing,74.6,normal
+2674,Tunisia,Developing,74.4,normal
+2675,Tunisia,Developing,74.2,normal
+2676,Tunisia,Developing,74.0,normal
+2677,Tunisia,Developing,73.7,normal
+2678,Tunisia,Developing,73.5,normal
+2679,Tunisia,Developing,73.2,normal
+2680,Tunisia,Developing,72.9,normal
+2681,Turkey,Developing,75.8,long
+2682,Turkey,Developing,75.5,normal
+2683,Turkey,Developing,75.2,normal
+2684,Turkey,Developing,74.8,normal
+2685,Turkey,Developing,74.5,normal
+2686,Turkey,Developing,74.2,normal
+2687,Turkey,Developing,73.9,normal
+2688,Turkey,Developing,73.5,normal
+2689,Turkey,Developing,73.2,normal
+2690,Turkey,Developing,72.8,normal
+2691,Turkey,Developing,72.4,normal
+2692,Turkey,Developing,72.0,normal
+2693,Turkey,Developing,71.6,normal
+2694,Turkey,Developing,71.2,normal
+2695,Turkey,Developing,78.0,long
+2696,Turkey,Developing,74.0,normal
+2697,Turkmenistan,Developing,66.3,normal
+2698,Turkmenistan,Developing,66.0,normal
+2699,Turkmenistan,Developing,65.4,normal
+2700,Turkmenistan,Developing,65.6,normal
+2701,Turkmenistan,Developing,65.6,normal
+2702,Turkmenistan,Developing,65.8,normal
+2703,Turkmenistan,Developing,65.6,normal
+2704,Turkmenistan,Developing,64.5,normal
+2705,Turkmenistan,Developing,64.1,normal
+2706,Turkmenistan,Developing,63.7,normal
+2707,Turkmenistan,Developing,63.3,normal
+2708,Turkmenistan,Developing,63.5,normal
+2709,Turkmenistan,Developing,63.4,normal
+2710,Turkmenistan,Developing,63.3,normal
+2711,Turkmenistan,Developing,64.0,normal
+2712,Turkmenistan,Developing,63.8,normal
+2713,Tuvalu,Developing,,long
+2714,Uganda,Developing,62.3,normal
+2715,Uganda,Developing,61.5,normal
+2716,Uganda,Developing,67.0,normal
+2717,Uganda,Developing,60.0,normal
+2718,Uganda,Developing,59.3,normal
+2719,Uganda,Developing,58.4,short
+2720,Uganda,Developing,57.5,short
+2721,Uganda,Developing,56.3,short
+2722,Uganda,Developing,55.5,short
+2723,Uganda,Developing,54.9,short
+2724,Uganda,Developing,53.2,short
+2725,Uganda,Developing,51.3,short
+2726,Uganda,Developing,51.0,short
+2727,Uganda,Developing,48.8,short
+2728,Uganda,Developing,47.7,short
+2729,Uganda,Developing,46.6,short
+2730,Ukraine,Developing,71.3,normal
+2731,Ukraine,Developing,78.0,long
+2732,Ukraine,Developing,71.0,normal
+2733,Ukraine,Developing,77.0,long
+2734,Ukraine,Developing,75.0,normal
+2735,Ukraine,Developing,69.8,normal
+2736,Ukraine,Developing,69.2,normal
+2737,Ukraine,Developing,67.7,normal
+2738,Ukraine,Developing,67.5,normal
+2739,Ukraine,Developing,67.7,normal
+2740,Ukraine,Developing,67.0,normal
+2741,Ukraine,Developing,67.4,normal
+2742,Ukraine,Developing,67.6,normal
+2743,Ukraine,Developing,67.6,normal
+2744,Ukraine,Developing,67.7,normal
+2745,Ukraine,Developing,67.5,normal
+2746,United Arab Emirates,Developing,77.1,long
+2747,United Arab Emirates,Developing,76.9,long
+2748,United Arab Emirates,Developing,76.7,long
+2749,United Arab Emirates,Developing,76.5,long
+2750,United Arab Emirates,Developing,76.3,long
+2751,United Arab Emirates,Developing,76.2,long
+2752,United Arab Emirates,Developing,76.0,long
+2753,United Arab Emirates,Developing,75.8,long
+2754,United Arab Emirates,Developing,75.6,normal
+2755,United Arab Emirates,Developing,75.4,normal
+2756,United Arab Emirates,Developing,75.3,normal
+2757,United Arab Emirates,Developing,75.1,normal
+2758,United Arab Emirates,Developing,74.9,normal
+2759,United Arab Emirates,Developing,74.7,normal
+2760,United Arab Emirates,Developing,74.5,normal
+2761,United Arab Emirates,Developing,74.2,normal
+2762,United Kingdom of Great Britain and Northern Ireland,Developed,81.2,normal
+2763,United Kingdom of Great Britain and Northern Ireland,Developed,81.0,normal
+2764,United Kingdom of Great Britain and Northern Ireland,Developed,87.0,long
+2765,United Kingdom of Great Britain and Northern Ireland,Developed,86.0,long
+2766,United Kingdom of Great Britain and Northern Ireland,Developed,86.0,long
+2767,United Kingdom of Great Britain and Northern Ireland,Developed,82.0,normal
+2768,United Kingdom of Great Britain and Northern Ireland,Developed,81.0,normal
+2769,United Kingdom of Great Britain and Northern Ireland,Developed,79.6,normal
+2770,United Kingdom of Great Britain and Northern Ireland,Developed,79.5,normal
+2771,United Kingdom of Great Britain and Northern Ireland,Developed,79.3,normal
+2772,United Kingdom of Great Britain and Northern Ireland,Developed,79.0,normal
+2773,United Kingdom of Great Britain and Northern Ireland,Developed,78.8,normal
+2774,United Kingdom of Great Britain and Northern Ireland,Developed,78.3,normal
+2775,United Kingdom of Great Britain and Northern Ireland,Developed,78.2,normal
+2776,United Kingdom of Great Britain and Northern Ireland,Developed,78.0,normal
+2777,United Kingdom of Great Britain and Northern Ireland,Developed,77.8,normal
+2778,United Republic of Tanzania,Developing,61.8,normal
+2779,United Republic of Tanzania,Developing,67.0,normal
+2780,United Republic of Tanzania,Developing,59.7,normal
+2781,United Republic of Tanzania,Developing,58.6,normal
+2782,United Republic of Tanzania,Developing,58.3,short
+2783,United Republic of Tanzania,Developing,57.5,short
+2784,United Republic of Tanzania,Developing,56.9,short
+2785,United Republic of Tanzania,Developing,56.2,short
+2786,United Republic of Tanzania,Developing,54.5,short
+2787,United Republic of Tanzania,Developing,53.1,short
+2788,United Republic of Tanzania,Developing,52.2,short
+2789,United Republic of Tanzania,Developing,51.5,short
+2790,United Republic of Tanzania,Developing,58.0,short
+2791,United Republic of Tanzania,Developing,52.0,short
+2792,United Republic of Tanzania,Developing,49.6,short
+2793,United Republic of Tanzania,Developing,49.2,short
+2794,United States of America,Developed,79.3,normal
+2795,United States of America,Developed,79.1,normal
+2796,United States of America,Developed,78.9,normal
+2797,United States of America,Developed,78.8,normal
+2798,United States of America,Developed,78.7,normal
+2799,United States of America,Developed,78.7,normal
+2800,United States of America,Developed,78.5,normal
+2801,United States of America,Developed,78.2,normal
+2802,United States of America,Developed,78.1,normal
+2803,United States of America,Developed,77.8,normal
+2804,United States of America,Developed,77.5,normal
+2805,United States of America,Developed,77.5,normal
+2806,United States of America,Developed,77.2,normal
+2807,United States of America,Developed,77.0,normal
+2808,United States of America,Developed,76.9,normal
+2809,United States of America,Developed,76.8,normal
+2810,Uruguay,Developing,77.0,long
+2811,Uruguay,Developing,76.8,long
+2812,Uruguay,Developing,76.8,long
+2813,Uruguay,Developing,76.5,long
+2814,Uruguay,Developing,77.0,long
+2815,Uruguay,Developing,76.3,long
+2816,Uruguay,Developing,76.6,long
+2817,Uruguay,Developing,76.4,long
+2818,Uruguay,Developing,75.4,normal
+2819,Uruguay,Developing,76.2,long
+2820,Uruguay,Developing,75.7,normal
+2821,Uruguay,Developing,75.4,normal
+2822,Uruguay,Developing,75.4,normal
+2823,Uruguay,Developing,75.4,normal
+2824,Uruguay,Developing,75.2,normal
+2825,Uruguay,Developing,75.1,normal
+2826,Uzbekistan,Developing,69.4,normal
+2827,Uzbekistan,Developing,69.2,normal
+2828,Uzbekistan,Developing,69.1,normal
+2829,Uzbekistan,Developing,68.8,normal
+2830,Uzbekistan,Developing,68.5,normal
+2831,Uzbekistan,Developing,68.3,normal
+2832,Uzbekistan,Developing,68.0,normal
+2833,Uzbekistan,Developing,67.9,normal
+2834,Uzbekistan,Developing,67.8,normal
+2835,Uzbekistan,Developing,67.6,normal
+2836,Uzbekistan,Developing,67.3,normal
+2837,Uzbekistan,Developing,67.8,normal
+2838,Uzbekistan,Developing,67.2,normal
+2839,Uzbekistan,Developing,67.1,normal
+2840,Uzbekistan,Developing,67.4,normal
+2841,Uzbekistan,Developing,67.1,normal
+2842,Vanuatu,Developing,72.0,normal
+2843,Vanuatu,Developing,71.7,normal
+2844,Vanuatu,Developing,71.6,normal
+2845,Vanuatu,Developing,71.4,normal
+2846,Vanuatu,Developing,71.2,normal
+2847,Vanuatu,Developing,71.0,normal
+2848,Vanuatu,Developing,78.0,long
+2849,Vanuatu,Developing,75.0,normal
+2850,Vanuatu,Developing,73.0,normal
+2851,Vanuatu,Developing,71.0,normal
+2852,Vanuatu,Developing,69.9,normal
+2853,Vanuatu,Developing,69.6,normal
+2854,Vanuatu,Developing,69.4,normal
+2855,Vanuatu,Developing,69.3,normal
+2856,Vanuatu,Developing,69.1,normal
+2857,Vanuatu,Developing,69.0,normal
+2858,Venezuela (Bolivarian Republic of),Developing,74.1,normal
+2859,Venezuela (Bolivarian Republic of),Developing,73.9,normal
+2860,Venezuela (Bolivarian Republic of),Developing,73.8,normal
+2861,Venezuela (Bolivarian Republic of),Developing,73.7,normal
+2862,Venezuela (Bolivarian Republic of),Developing,73.8,normal
+2863,Venezuela (Bolivarian Republic of),Developing,73.7,normal
+2864,Venezuela (Bolivarian Republic of),Developing,73.6,normal
+2865,Venezuela (Bolivarian Republic of),Developing,73.2,normal
+2866,Venezuela (Bolivarian Republic of),Developing,73.4,normal
+2867,Venezuela (Bolivarian Republic of),Developing,73.6,normal
+2868,Venezuela (Bolivarian Republic of),Developing,73.6,normal
+2869,Venezuela (Bolivarian Republic of),Developing,73.3,normal
+2870,Venezuela (Bolivarian Republic of),Developing,72.4,normal
+2871,Venezuela (Bolivarian Republic of),Developing,73.1,normal
+2872,Venezuela (Bolivarian Republic of),Developing,72.5,normal
+2873,Venezuela (Bolivarian Republic of),Developing,72.5,normal
+2874,Viet Nam,Developing,76.0,long
+2875,Viet Nam,Developing,75.9,long
+2876,Viet Nam,Developing,75.7,normal
+2877,Viet Nam,Developing,75.6,normal
+2878,Viet Nam,Developing,75.4,normal
+2879,Viet Nam,Developing,75.2,normal
+2880,Viet Nam,Developing,75.0,normal
+2881,Viet Nam,Developing,74.9,normal
+2882,Viet Nam,Developing,74.7,normal
+2883,Viet Nam,Developing,74.6,normal
+2884,Viet Nam,Developing,74.4,normal
+2885,Viet Nam,Developing,74.2,normal
+2886,Viet Nam,Developing,74.0,normal
+2887,Viet Nam,Developing,73.8,normal
+2888,Viet Nam,Developing,73.6,normal
+2889,Viet Nam,Developing,73.4,normal
+2890,Yemen,Developing,65.7,normal
+2891,Yemen,Developing,65.4,normal
+2892,Yemen,Developing,65.4,normal
+2893,Yemen,Developing,64.7,normal
+2894,Yemen,Developing,64.6,normal
+2895,Yemen,Developing,64.4,normal
+2896,Yemen,Developing,64.1,normal
+2897,Yemen,Developing,63.8,normal
+2898,Yemen,Developing,63.4,normal
+2899,Yemen,Developing,63.0,normal
+2900,Yemen,Developing,62.6,normal
+2901,Yemen,Developing,62.2,normal
+2902,Yemen,Developing,61.9,normal
+2903,Yemen,Developing,61.5,normal
+2904,Yemen,Developing,61.1,normal
+2905,Yemen,Developing,68.0,normal
+2906,Zambia,Developing,61.8,normal
+2907,Zambia,Developing,61.1,normal
+2908,Zambia,Developing,63.0,normal
+2909,Zambia,Developing,59.2,normal
+2910,Zambia,Developing,58.2,short
+2911,Zambia,Developing,58.0,short
+2912,Zambia,Developing,57.4,short
+2913,Zambia,Developing,55.7,short
+2914,Zambia,Developing,52.6,short
+2915,Zambia,Developing,58.0,short
+2916,Zambia,Developing,49.3,short
+2917,Zambia,Developing,47.9,short
+2918,Zambia,Developing,46.4,short
+2919,Zambia,Developing,45.5,short
+2920,Zambia,Developing,44.6,short
+2921,Zambia,Developing,43.8,short
+2922,Zimbabwe,Developing,67.0,normal
+2923,Zimbabwe,Developing,59.2,normal
+2924,Zimbabwe,Developing,58.0,short
+2925,Zimbabwe,Developing,56.6,short
+2926,Zimbabwe,Developing,54.9,short
+2927,Zimbabwe,Developing,52.4,short
+2928,Zimbabwe,Developing,50.0,short
+2929,Zimbabwe,Developing,48.2,short
+2930,Zimbabwe,Developing,46.6,short
+2931,Zimbabwe,Developing,45.4,short
+2932,Zimbabwe,Developing,44.6,short
+2933,Zimbabwe,Developing,44.3,short
+2934,Zimbabwe,Developing,44.5,short
+2935,Zimbabwe,Developing,44.8,short
+2936,Zimbabwe,Developing,45.3,short
+2937,Zimbabwe,Developing,46.0,short
